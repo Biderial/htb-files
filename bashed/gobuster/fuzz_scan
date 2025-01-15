@@ -1,0 +1,16 @@
+[32mFound: [0m[32m[Status=301] [Length=311] [Word=images] http://10.10.10.68/images[0m[32m
+[0m
+[32mFound: [0m[32m[Status=301] [Length=312] [Word=uploads] http://10.10.10.68/uploads[0m[32m
+[0m
+[32mFound: [0m[32m[Status=301] [Length=308] [Word=php] http://10.10.10.68/php[0m[32m
+[0m
+[32mFound: [0m[32m[Status=301] [Length=308] [Word=css] http://10.10.10.68/css[0m[32m
+[0m
+[32mFound: [0m[32m[Status=301] [Length=308] [Word=dev] http://10.10.10.68/dev[0m[32m
+[0m
+[32mFound: [0m[32m[Status=301] [Length=307] [Word=js] http://10.10.10.68/js[0m[32m
+[0m
+[32mFound: [0m[32m[Status=301] [Length=310] [Word=fonts] http://10.10.10.68/fonts[0m[32m
+[0m
+[32mFound: [0m[32m[Status=403] [Length=299] [Word=server-status] http://10.10.10.68/server-status[0m[32m
+[0m

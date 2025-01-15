@@ -1,0 +1,8 @@
+[32mFound: [0m[32m[Status=302] [Length=208] [Word=data] http://10.10.10.245/data[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=17452] [Word=ip] http://10.10.10.245/ip[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=28284] [Word=netstat] http://10.10.10.245/netstat[0m[32m
+[0m
+[32mFound: [0m[32m[Status=302] [Length=220] [Word=capture] http://10.10.10.245/capture[0m[32m
+[0m

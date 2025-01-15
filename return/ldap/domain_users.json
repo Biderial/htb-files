@@ -1,0 +1,427 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "2024-10-31 14:26:24.964880+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "SVCPrinter"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2021-05-26 08:26:03+00:00",
+            "2021-05-26 08:15:13+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "description": [
+            "Service Account for Printer"
+        ],
+        "displayName": [
+            "SVCPrinter"
+        ],
+        "distinguishedName": [
+            "CN=SVCPrinter,CN=Users,DC=return,DC=local"
+        ],
+        "givenName": [
+            "SVCPrinter"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2024-10-31 14:34:42.964836+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2024-10-31 12:48:25.792953+00:00"
+        ],
+        "logonCount": [
+            1
+        ],
+        "memberOf": [
+            "CN=Server Operators,CN=Builtin,DC=return,DC=local",
+            "CN=Remote Management Users,CN=Builtin,DC=return,DC=local",
+            "CN=Print Operators,CN=Builtin,DC=return,DC=local"
+        ],
+        "name": [
+            "SVCPrinter"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=return,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{e52116fd-60d3-480c-b17e-89fc49e52c9b}"
+        ],
+        "objectSid": [
+            "S-1-5-21-3750359090-2939318659-876128439-1103"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2021-05-26 08:15:13.368362+00:00"
+        ],
+        "sAMAccountName": [
+            "svc-printer"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            102520
+        ],
+        "uSNCreated": [
+            20519
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "svc-printer@return.local"
+        ],
+        "whenChanged": [
+            "2024-10-31 12:48:25+00:00"
+        ],
+        "whenCreated": [
+            "2021-05-26 08:15:13+00:00"
+        ]
+    },
+    "dn": "CN=SVCPrinter,CN=Users,DC=return,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "krbtgt"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2021-05-20 13:42:04+00:00",
+            "2021-05-20 13:26:55+00:00",
+            "1601-01-01 00:04:16+00:00"
+        ],
+        "description": [
+            "Key Distribution Center Service Account"
+        ],
+        "distinguishedName": [
+            "CN=krbtgt,CN=Users,DC=return,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Denied RODC Password Replication Group,CN=Users,DC=return,DC=local"
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            0
+        ],
+        "name": [
+            "krbtgt"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=return,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{6a6a26cf-fcef-4865-bf11-d2115ec754bd}"
+        ],
+        "objectSid": [
+            "S-1-5-21-3750359090-2939318659-876128439-502"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2021-05-20 13:26:54.838406+00:00"
+        ],
+        "sAMAccountName": [
+            "krbtgt"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "kadmin/changepw"
+        ],
+        "showInAdvancedViewOnly": [
+            true
+        ],
+        "uSNChanged": [
+            12788
+        ],
+        "uSNCreated": [
+            12324
+        ],
+        "userAccountControl": [
+            514
+        ],
+        "whenChanged": [
+            "2021-05-20 13:42:04+00:00"
+        ],
+        "whenCreated": [
+            "2021-05-20 13:26:54+00:00"
+        ]
+    },
+    "dn": "CN=krbtgt,CN=Users,DC=return,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Guest"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2021-05-20 13:26:55+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "description": [
+            "Built-in account for guest access to the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Guest,CN=Users,DC=return,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Guests,CN=Builtin,DC=return,DC=local"
+        ],
+        "name": [
+            "Guest"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=return,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{9279b330-09b1-4315-b13c-c22f5de1ca2d}"
+        ],
+        "objectSid": [
+            "S-1-5-21-3750359090-2939318659-876128439-501"
+        ],
+        "primaryGroupID": [
+            514
+        ],
+        "pwdLastSet": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "sAMAccountName": [
+            "Guest"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            8197
+        ],
+        "uSNCreated": [
+            8197
+        ],
+        "userAccountControl": [
+            66082
+        ],
+        "whenChanged": [
+            "2021-05-20 13:25:59+00:00"
+        ],
+        "whenCreated": [
+            "2021-05-20 13:25:59+00:00"
+        ]
+    },
+    "dn": "CN=Guest,CN=Users,DC=return,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "2021-09-27 10:46:52.963425+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Administrator"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2021-05-20 13:42:04+00:00",
+            "2021-05-20 13:42:04+00:00",
+            "2021-05-20 13:26:55+00:00",
+            "1601-01-01 18:12:16+00:00"
+        ],
+        "description": [
+            "Built-in account for administering the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Administrator,CN=Users,DC=return,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2024-10-31 12:24:00.683598+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2024-10-31 12:23:27.433565+00:00"
+        ],
+        "logonCount": [
+            78
+        ],
+        "logonHours": [
+            {
+                "encoded": "////////////////////////////",
+                "encoding": "base64"
+            }
+        ],
+        "memberOf": [
+            "CN=Group Policy Creator Owners,CN=Users,DC=return,DC=local",
+            "CN=Domain Admins,CN=Users,DC=return,DC=local",
+            "CN=Enterprise Admins,CN=Users,DC=return,DC=local",
+            "CN=Schema Admins,CN=Users,DC=return,DC=local",
+            "CN=Administrators,CN=Builtin,DC=return,DC=local"
+        ],
+        "name": [
+            "Administrator"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=return,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{16e73777-cbd2-4f7b-876a-7b75e5715a06}"
+        ],
+        "objectSid": [
+            "S-1-5-21-3750359090-2939318659-876128439-500"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2021-07-16 15:03:22.557692+00:00"
+        ],
+        "sAMAccountName": [
+            "Administrator"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            102442
+        ],
+        "uSNCreated": [
+            8196
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "whenChanged": [
+            "2024-10-31 12:23:27+00:00"
+        ],
+        "whenCreated": [
+            "2021-05-20 13:25:59+00:00"
+        ]
+    },
+    "dn": "CN=Administrator,CN=Users,DC=return,DC=local"
+}]

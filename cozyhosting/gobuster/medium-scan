@@ -1,0 +1,108 @@
+[32mFound: [0m[32m[Status=200] [Length=12706] [Word=index] http://cozyhosting.htb/index[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=4431] [Word=login] http://cozyhosting.htb/login[0m[32m
+[0m
+[32mFound: [0m[32m[Status=401] [Length=97] [Word=admin] http://cozyhosting.htb/admin[0m[32m
+[0m
+[32mFound: [0m[32m[Status=204] [Length=0] [Word=logout] http://cozyhosting.htb/logout[0m[32m
+[0m
+[32mFound: [0m[32m[Status=500] [Length=73] [Word=error] http://cozyhosting.htb/error[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=http%3A%2F%2Fwww] http://cozyhosting.htb/http%3A%2F%2Fwww[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=http%3A%2F%2Fyoutube] http://cozyhosting.htb/http%3A%2F%2Fyoutube[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%C0] http://cozyhosting.htb/%C0[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=http%3A%2F%2Fblogs] http://cozyhosting.htb/http%3A%2F%2Fblogs[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=http%3A%2F%2Fblog] http://cozyhosting.htb/http%3A%2F%2Fblog[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=**http%3A%2F%2Fwww] http://cozyhosting.htb/**http%3A%2F%2Fwww[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=0] [Word=27079%5Fclassicpeople2%2Ejpg] http://cozyhosting.htb/27079%5Fclassicpeople2%2Ejpg[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=0] [Word=children%2527s_tent] http://cozyhosting.htb/children%2527s_tent[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=0] [Word=tiki%2Epng] http://cozyhosting.htb/tiki%2Epng[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=0] [Word=Wanted%2e%2e%2e] http://cozyhosting.htb/Wanted%2e%2e%2e[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=0] [Word=How_to%2e%2e%2e] http://cozyhosting.htb/How_to%2e%2e%2e[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=External%5CX-News] http://cozyhosting.htb/External%5CX-News[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=0] [Word=squishdot_rss10%2Etxt] http://cozyhosting.htb/squishdot_rss10%2Etxt[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=0] [Word=b33p%2Ehtml] http://cozyhosting.htb/b33p%2Ehtml[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=0] [Word=help%2523drupal] http://cozyhosting.htb/help%2523drupal[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=http%3A%2F%2Fcommunity] http://cozyhosting.htb/http%3A%2F%2Fcommunity[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=http%3A%2F%2Fradar] http://cozyhosting.htb/http%3A%2F%2Fradar[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%D8] http://cozyhosting.htb/%D8[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%CF] http://cozyhosting.htb/%CF[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%CE] http://cozyhosting.htb/%CE[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%CD] http://cozyhosting.htb/%CD[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%CC] http://cozyhosting.htb/%CC[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%CB] http://cozyhosting.htb/%CB[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%CA] http://cozyhosting.htb/%CA[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%D0] http://cozyhosting.htb/%D0[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%D1] http://cozyhosting.htb/%D1[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%D7] http://cozyhosting.htb/%D7[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%D6] http://cozyhosting.htb/%D6[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%D5] http://cozyhosting.htb/%D5[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%D4] http://cozyhosting.htb/%D4[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%D3] http://cozyhosting.htb/%D3[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%D2] http://cozyhosting.htb/%D2[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%C9] http://cozyhosting.htb/%C9[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%C8] http://cozyhosting.htb/%C8[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%C1] http://cozyhosting.htb/%C1[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%C2] http://cozyhosting.htb/%C2[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%C7] http://cozyhosting.htb/%C7[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%C5] http://cozyhosting.htb/%C5[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%C4] http://cozyhosting.htb/%C4[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%C3] http://cozyhosting.htb/%C3[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%C6] http://cozyhosting.htb/%C6[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%D9] http://cozyhosting.htb/%D9[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%DF] http://cozyhosting.htb/%DF[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%DE] http://cozyhosting.htb/%DE[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%DD] http://cozyhosting.htb/%DD[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=%DB] http://cozyhosting.htb/%DB[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=http%3A%2F%2Fjeremiahgrossman] http://cozyhosting.htb/http%3A%2F%2Fjeremiahgrossman[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=http%3A%2F%2Fweblog] http://cozyhosting.htb/http%3A%2F%2Fweblog[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=435] [Word=http%3A%2F%2Fswik] http://cozyhosting.htb/http%3A%2F%2Fswik[0m[32m
+[0m

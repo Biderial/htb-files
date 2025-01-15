@@ -1,0 +1,18 @@
+[32mFound: [0m[32m[Status=200] [Length=634] [Word=actuator] http://cozyhosting.htb/actuator[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=487] [Word=actuator/env/home] http://cozyhosting.htb/actuator/env/home[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=4957] [Word=actuator/env] http://cozyhosting.htb/actuator/env[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=487] [Word=actuator/env/lang] http://cozyhosting.htb/actuator/env/lang[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=487] [Word=actuator/env/path] http://cozyhosting.htb/actuator/env/path[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=15] [Word=actuator/health] http://cozyhosting.htb/actuator/health[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=9938] [Word=actuator/mappings] http://cozyhosting.htb/actuator/mappings[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=127224] [Word=actuator/beans] http://cozyhosting.htb/actuator/beans[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=48] [Word=actuator/sessions] http://cozyhosting.htb/actuator/sessions[0m[32m
+[0m

@@ -1,0 +1,168 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "PRINTER"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dNSHostName": [
+            "printer.return.local"
+        ],
+        "dSCorePropagationData": [
+            "2021-05-20 13:26:55+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "displayName": [
+            "PRINTER$"
+        ],
+        "distinguishedName": [
+            "CN=PRINTER,OU=Domain Controllers,DC=return,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2024-10-31 12:24:01.714821+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2024-10-31 12:23:25.339811+00:00"
+        ],
+        "localPolicyFlags": [
+            0
+        ],
+        "logonCount": [
+            68
+        ],
+        "msDFSR-ComputerReferenceBL": [
+            "CN=WIN-HQU2BCQL89C,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=return,DC=local"
+        ],
+        "msDS-AdditionalDnsHostName": [
+            "WIN-HQU2BCQL89C\u0000$",
+            "PRINTER\u0000$"
+        ],
+        "msDS-GenerationId": [
+            {
+                "encoded": "0DGKva6qJHg=",
+                "encoding": "base64"
+            }
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            28
+        ],
+        "name": [
+            "PRINTER"
+        ],
+        "objectCategory": [
+            "CN=Computer,CN=Schema,CN=Configuration,DC=return,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectGUID": [
+            "{5be175ae-8b61-4eae-a206-b0fca8aafa27}"
+        ],
+        "objectSid": [
+            "S-1-5-21-3750359090-2939318659-876128439-1000"
+        ],
+        "operatingSystem": [
+            "Windows Server 2019 Standard"
+        ],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "primaryGroupID": [
+            516
+        ],
+        "pwdLastSet": [
+            "2024-10-31 12:23:12.949196+00:00"
+        ],
+        "rIDSetReferences": [
+            "CN=RID Set,CN=PRINTER,OU=Domain Controllers,DC=return,DC=local"
+        ],
+        "sAMAccountName": [
+            "PRINTER$"
+        ],
+        "sAMAccountType": [
+            805306369
+        ],
+        "serverReferenceBL": [
+            "CN=PRINTER,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=return,DC=local"
+        ],
+        "servicePrincipalName": [
+            "Dfsr-12F9A27C-BF97-4787-9364-D31B6C55EB04/printer.return.local",
+            "ldap/WIN-HQU2BCQL89C/RETURN",
+            "HOST/WIN-HQU2BCQL89C/return.local",
+            "ldap/WIN-HQU2BCQL89C/ForestDnsZones.return.local",
+            "HOST/WIN-HQU2BCQL89C/RETURN",
+            "ldap/PRINTER/ForestDnsZones.return.local",
+            "ldap/WIN-HQU2BCQL89C/DomainDnsZones.return.local",
+            "HOST/PRINTER/return.local",
+            "ldap/PRINTER/DomainDnsZones.return.local",
+            "GC/PRINTER/return.local",
+            "ldap/WIN-HQU2BCQL89C/return.local",
+            "GC/WIN-HQU2BCQL89C/return.local",
+            "ldap/PRINTER/return.local",
+            "RestrictedKrbHost/WIN-HQU2BCQL89C",
+            "HOST/WIN-HQU2BCQL89C",
+            "ldap/WIN-HQU2BCQL89C",
+            "HOST/PRINTER/RETURN",
+            "ldap/PRINTER/RETURN",
+            "ldap/printer.return.local/ForestDnsZones.return.local",
+            "ldap/printer.return.local/DomainDnsZones.return.local",
+            "DNS/printer.return.local",
+            "GC/printer.return.local/return.local",
+            "RestrictedKrbHost/printer.return.local",
+            "RestrictedKrbHost/PRINTER",
+            "HOST/printer.return.local/RETURN",
+            "HOST/PRINTER",
+            "HOST/printer.return.local",
+            "HOST/printer.return.local/return.local",
+            "ldap/printer.return.local/RETURN",
+            "ldap/PRINTER",
+            "ldap/printer.return.local",
+            "ldap/printer.return.local/return.local",
+            "RPC/c2a9b7bb-a190-4065-b4d6-f373b72005f0._msdcs.return.local",
+            "E3514235-4B06-11D1-AB04-00C04FC2DCD2/c2a9b7bb-a190-4065-b4d6-f373b72005f0/return.local",
+            "ldap/c2a9b7bb-a190-4065-b4d6-f373b72005f0._msdcs.return.local"
+        ],
+        "uSNChanged": [
+            102440
+        ],
+        "uSNCreated": [
+            12293
+        ],
+        "userAccountControl": [
+            532480
+        ],
+        "whenChanged": [
+            "2024-10-31 12:23:25+00:00"
+        ],
+        "whenCreated": [
+            "2021-05-20 13:26:54+00:00"
+        ]
+    },
+    "dn": "CN=PRINTER,OU=Domain Controllers,DC=return,DC=local"
+}]

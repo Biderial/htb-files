@@ -1,0 +1,12 @@
+Password for [WORKGROUP\bid]:
+
+	Sharename       Type      Comment
+	---------       ----      -------
+	ADMIN$          Disk      Remote Admin
+	C$              Disk      Default share
+	DEV             Disk      
+	HR              Disk      
+	IPC$            IPC       Remote IPC
+	NETLOGON        Disk      Logon server share 
+	SYSVOL          Disk      Logon server share 
+SMB1 disabled -- no workgroup available

@@ -1,0 +1,18 @@
+[32mFound: [0m[32m[Status=403] [Length=291] [Word=icons] http://blocky.htb/icons/[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=380] [Word=wiki] http://blocky.htb/wiki/[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=0] [Word=wp-content] http://blocky.htb/wp-content/[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=745] [Word=plugins] http://blocky.htb/plugins/[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=40838] [Word=wp-includes] http://blocky.htb/wp-includes/[0m[32m
+[0m
+[32mFound: [0m[32m[Status=403] [Length=296] [Word=javascript] http://blocky.htb/javascript/[0m[32m
+[0m
+[32mFound: [0m[32m[Status=302] [Length=0] [Word=wp-admin] http://blocky.htb/wp-admin/[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=10327] [Word=phpmyadmin] http://blocky.htb/phpmyadmin/[0m[32m
+[0m
+[32mFound: [0m[32m[Status=403] [Length=299] [Word=server-status] http://blocky.htb/server-status/[0m[32m
+[0m

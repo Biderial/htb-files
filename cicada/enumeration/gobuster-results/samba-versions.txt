@@ -1,0 +1,300 @@
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=1000] https://download.samba.org/pub/samba/1000[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=100] https://download.samba.org/pub/samba/100[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=1] https://download.samba.org/pub/samba/1[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=0] https://download.samba.org/pub/samba/0[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=01] https://download.samba.org/pub/samba/01[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=00] https://download.samba.org/pub/samba/00[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=10] https://download.samba.org/pub/samba/10[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=03] https://download.samba.org/pub/samba/03[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=02] https://download.samba.org/pub/samba/02[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=101] https://download.samba.org/pub/samba/101[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=102] https://download.samba.org/pub/samba/102[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=103] https://download.samba.org/pub/samba/103[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=1x1] https://download.samba.org/pub/samba/1x1[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=20] https://download.samba.org/pub/samba/20[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=2] https://download.samba.org/pub/samba/2[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=1998] https://download.samba.org/pub/samba/1998[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=2000] https://download.samba.org/pub/samba/2000[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=1999] https://download.samba.org/pub/samba/1999[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=200] https://download.samba.org/pub/samba/200[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=2001] https://download.samba.org/pub/samba/2001[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=2002] https://download.samba.org/pub/samba/2002[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=2003] https://download.samba.org/pub/samba/2003[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=2004] https://download.samba.org/pub/samba/2004[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=2005] https://download.samba.org/pub/samba/2005[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=2007] https://download.samba.org/pub/samba/2007[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=2006] https://download.samba.org/pub/samba/2006[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=300] https://download.samba.org/pub/samba/300[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=30] https://download.samba.org/pub/samba/30[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=3] https://download.samba.org/pub/samba/3[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=@] https://download.samba.org/pub/samba/@[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=A] https://download.samba.org/pub/samba/A[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=AboutUs] https://download.samba.org/pub/samba/AboutUs[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=About] https://download.samba.org/pub/samba/About[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Admin] https://download.samba.org/pub/samba/Admin[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Administration] https://download.samba.org/pub/samba/Administration[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Archive] https://download.samba.org/pub/samba/Archive[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=B] https://download.samba.org/pub/samba/B[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=BackOffice] https://download.samba.org/pub/samba/BackOffice[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Articles] https://download.samba.org/pub/samba/Articles[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Blog] https://download.samba.org/pub/samba/Blog[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Books] https://download.samba.org/pub/samba/Books[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=C] https://download.samba.org/pub/samba/C[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Business] https://download.samba.org/pub/samba/Business[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=CPAN] https://download.samba.org/pub/samba/CPAN[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=CVS] https://download.samba.org/pub/samba/CVS[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=CYBERDOCS31] https://download.samba.org/pub/samba/CYBERDOCS31[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=ChangeLog] https://download.samba.org/pub/samba/ChangeLog[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Computers] https://download.samba.org/pub/samba/Computers[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=CYBERDOCS] https://download.samba.org/pub/samba/CYBERDOCS[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=CYBERDOCS25] https://download.samba.org/pub/samba/CYBERDOCS25[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Contact] https://download.samba.org/pub/samba/Contact[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Content] https://download.samba.org/pub/samba/Content[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=ContactUs] https://download.samba.org/pub/samba/ContactUs[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=D] https://download.samba.org/pub/samba/D[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Creatives] https://download.samba.org/pub/samba/Creatives[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Default] https://download.samba.org/pub/samba/Default[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Download] https://download.samba.org/pub/samba/Download[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=E] https://download.samba.org/pub/samba/E[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Downloads] https://download.samba.org/pub/samba/Downloads[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Education] https://download.samba.org/pub/samba/Education[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=English] https://download.samba.org/pub/samba/English[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Entertainment] https://download.samba.org/pub/samba/Entertainment[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Events] https://download.samba.org/pub/samba/Events[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Extranet] https://download.samba.org/pub/samba/Extranet[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=F] https://download.samba.org/pub/samba/F[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=FAQ] https://download.samba.org/pub/samba/FAQ[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=G] https://download.samba.org/pub/samba/G[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Games] https://download.samba.org/pub/samba/Games[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Graphics] https://download.samba.org/pub/samba/Graphics[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Global] https://download.samba.org/pub/samba/Global[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=H] https://download.samba.org/pub/samba/H[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=HTML] https://download.samba.org/pub/samba/HTML[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Health] https://download.samba.org/pub/samba/Health[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Help] https://download.samba.org/pub/samba/Help[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Home] https://download.samba.org/pub/samba/Home[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=I] https://download.samba.org/pub/samba/I[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=INSTALL_admin] https://download.samba.org/pub/samba/INSTALL_admin[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Image] https://download.samba.org/pub/samba/Image[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Images] https://download.samba.org/pub/samba/Images[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Index] https://download.samba.org/pub/samba/Index[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Internet] https://download.samba.org/pub/samba/Internet[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=J] https://download.samba.org/pub/samba/J[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Java] https://download.samba.org/pub/samba/Java[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=L] https://download.samba.org/pub/samba/L[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Legal] https://download.samba.org/pub/samba/Legal[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Links] https://download.samba.org/pub/samba/Links[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Log] https://download.samba.org/pub/samba/Log[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Linux] https://download.samba.org/pub/samba/Linux[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Login] https://download.samba.org/pub/samba/Login[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Logs] https://download.samba.org/pub/samba/Logs[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=M] https://download.samba.org/pub/samba/M[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=MANIFEST.MF] https://download.samba.org/pub/samba/MANIFEST.MF[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=META-INF] https://download.samba.org/pub/samba/META-INF[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Main] https://download.samba.org/pub/samba/Main[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Main_Page] https://download.samba.org/pub/samba/Main_Page[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Members] https://download.samba.org/pub/samba/Members[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Media] https://download.samba.org/pub/samba/Media[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Misc] https://download.samba.org/pub/samba/Misc[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Menus] https://download.samba.org/pub/samba/Menus[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Music] https://download.samba.org/pub/samba/Music[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=N] https://download.samba.org/pub/samba/N[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=O] https://download.samba.org/pub/samba/O[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=News] https://download.samba.org/pub/samba/News[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=OasDefault] https://download.samba.org/pub/samba/OasDefault[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Office] https://download.samba.org/pub/samba/Office[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=PHP] https://download.samba.org/pub/samba/PHP[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=P] https://download.samba.org/pub/samba/P[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=PDF] https://download.samba.org/pub/samba/PDF[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Pages] https://download.samba.org/pub/samba/Pages[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=People] https://download.samba.org/pub/samba/People[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Press] https://download.samba.org/pub/samba/Press[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Privacy] https://download.samba.org/pub/samba/Privacy[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Products] https://download.samba.org/pub/samba/Products[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Projects] https://download.samba.org/pub/samba/Projects[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=RCS] https://download.samba.org/pub/samba/RCS[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=Publications] https://download.samba.org/pub/samba/Publications[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=R] https://download.samba.org/pub/samba/R[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=RSS] https://download.samba.org/pub/samba/RSS[0m[32m
+[0m
+[32mFound: [0m[32m[Status=404] [Length=346] [Word=RealMedia] https://download.samba.org/pub/samba/RealMedia[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=6001] [Word=README] https://download.samba.org/pub/samba/README[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Research] https://download.samba.org/pub/samba/Research[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Resources] https://download.samba.org/pub/samba/Resources[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=S] https://download.samba.org/pub/samba/S[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Scripts] https://download.samba.org/pub/samba/Scripts[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Search] https://download.samba.org/pub/samba/Search[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Security] https://download.samba.org/pub/samba/Security[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Services] https://download.samba.org/pub/samba/Services[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Servlet] https://download.samba.org/pub/samba/Servlet[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Servlets] https://download.samba.org/pub/samba/Servlets[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=SiteMap] https://download.samba.org/pub/samba/SiteMap[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=SiteServer] https://download.samba.org/pub/samba/SiteServer[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Sites] https://download.samba.org/pub/samba/Sites[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Software] https://download.samba.org/pub/samba/Software[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Sources] https://download.samba.org/pub/samba/Sources[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Sports] https://download.samba.org/pub/samba/Sports[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Statistics] https://download.samba.org/pub/samba/Statistics[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Support] https://download.samba.org/pub/samba/Support[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Stats] https://download.samba.org/pub/samba/Stats[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=T] https://download.samba.org/pub/samba/T[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Technology] https://download.samba.org/pub/samba/Technology[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Themes] https://download.samba.org/pub/samba/Themes[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Travel] https://download.samba.org/pub/samba/Travel[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=U] https://download.samba.org/pub/samba/U[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=US] https://download.samba.org/pub/samba/US[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Utilities] https://download.samba.org/pub/samba/Utilities[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=V] https://download.samba.org/pub/samba/V[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=W] https://download.samba.org/pub/samba/W[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=Video] https://download.samba.org/pub/samba/Video[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=W3SVC] https://download.samba.org/pub/samba/W3SVC[0m[32m
+[0m
+[32mFound: [0m[32m[Status=429] [Length=117] [Word=W3SVC1] https://download.samba.org/pub/samba/W3SVC1[0m[32m
+[0m

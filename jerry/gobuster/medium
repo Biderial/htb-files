@@ -1,0 +1,30 @@
+[32mFound: [0m[32m[Status=302] [Length=0] [Word=docs] http://10.10.10.95:8080/docs[0m[32m
+[0m
+[32mFound: [0m[32m[Status=302] [Length=0] [Word=examples] http://10.10.10.95:8080/examples[0m[32m
+[0m
+[32mFound: [0m[32m[Status=302] [Length=0] [Word=manager] http://10.10.10.95:8080/manager[0m[32m
+[0m
+[32mFound: [0m[32m[Status=302] [Length=0] [Word=reverse] http://10.10.10.95:8080/reverse[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=http%3A%2F%2Fwww] http://10.10.10.95:8080/http%3A%2F%2Fwww[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=http%3A%2F%2Fyoutube] http://10.10.10.95:8080/http%3A%2F%2Fyoutube[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=http%3A%2F%2Fblogs] http://10.10.10.95:8080/http%3A%2F%2Fblogs[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=http%3A%2F%2Fblog] http://10.10.10.95:8080/http%3A%2F%2Fblog[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=**http%3A%2F%2Fwww] http://10.10.10.95:8080/**http%3A%2F%2Fwww[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=External%5CX-News] http://10.10.10.95:8080/External%5CX-News[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=http%3A%2F%2Fcommunity] http://10.10.10.95:8080/http%3A%2F%2Fcommunity[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=http%3A%2F%2Fradar] http://10.10.10.95:8080/http%3A%2F%2Fradar[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=http%3A%2F%2Fjeremiahgrossman] http://10.10.10.95:8080/http%3A%2F%2Fjeremiahgrossman[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=http%3A%2F%2Fweblog] http://10.10.10.95:8080/http%3A%2F%2Fweblog[0m[32m
+[0m
+[32mFound: [0m[32m[Status=400] [Length=0] [Word=http%3A%2F%2Fswik] http://10.10.10.95:8080/http%3A%2F%2Fswik[0m[32m
+[0m

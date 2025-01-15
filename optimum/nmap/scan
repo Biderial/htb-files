@@ -1,0 +1,12 @@
+# Nmap 7.95 scan initiated Sun Nov  3 21:04:49 2024 as: nmap -p- -sV -sC -oN optimum/nmap/scan 10.10.10.8
+Nmap scan report for 10.10.10.8
+Host is up (0.038s latency).
+Not shown: 65534 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    HttpFileServer httpd 2.3
+|_http-server-header: HFS 2.3
+|_http-title: HFS /
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Nov  3 21:06:46 2024 -- 1 IP address (1 host up) scanned in 116.84 seconds

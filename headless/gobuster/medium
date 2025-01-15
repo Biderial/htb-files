@@ -1,0 +1,4 @@
+[32mFound: [0m[32m[Status=200] [Length=2363] [Word=support] http://10.10.11.8:5000/support[0m[32m
+[0m
+[32mFound: [0m[32m[Status=500] [Length=265] [Word=dashboard] http://10.10.11.8:5000/dashboard[0m[32m
+[0m

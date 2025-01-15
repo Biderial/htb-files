@@ -1,0 +1,1084 @@
+2023-09-12T17:19:27: PM2 log: ===============================================================================
+2023-09-12T17:19:27: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-12T17:19:27: PM2 log: Time                 : Tue Sep 12 2023 17:19:27 GMT+0000 (Coordinated Universal Time)
+2023-09-12T17:19:27: PM2 log: PM2 version          : 5.3.0
+2023-09-12T17:19:27: PM2 log: Node.js version      : 18.15.0
+2023-09-12T17:19:27: PM2 log: Current arch         : x64
+2023-09-12T17:19:27: PM2 log: PM2 home             : /home/svc/.pm2
+2023-09-12T17:19:27: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-09-12T17:19:27: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-09-12T17:19:27: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-09-12T17:19:27: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-09-12T17:19:27: PM2 log: Worker Interval      : 30000
+2023-09-12T17:19:27: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-09-12T17:19:27: PM2 log: Concurrent actions   : 2
+2023-09-12T17:19:27: PM2 log: SIGTERM timeout      : 1600
+2023-09-12T17:19:27: PM2 log: ===============================================================================
+2023-09-12T17:19:27: PM2 log: App [index:0] starting in -cluster mode-
+2023-09-12T17:19:27: PM2 log: App [index:0] online
+2023-09-12T17:19:27: PM2 log: App [index:1] starting in -cluster mode-
+2023-09-12T17:19:27: PM2 log: App [index:1] online
+2023-09-12T17:19:27: PM2 log: App [index:2] starting in -cluster mode-
+2023-09-12T17:19:27: PM2 log: App [index:2] online
+2023-09-12T17:19:27: PM2 log: App [index:3] starting in -cluster mode-
+2023-09-12T17:19:27: PM2 log: App [index:3] online
+2023-09-12T17:19:27: PM2 log: App [index:4] starting in -cluster mode-
+2023-09-12T17:19:27: PM2 log: App [index:4] online
+2023-09-12T17:19:27: PM2 log: App [index:5] starting in -cluster mode-
+2023-09-12T17:19:27: PM2 log: App [index:5] online
+2023-09-12T17:19:27: PM2 log: App [index:6] starting in -cluster mode-
+2023-09-12T17:19:27: PM2 log: App [index:6] online
+2023-09-12T17:19:27: PM2 log: App [index:7] starting in -cluster mode-
+2023-09-12T17:19:28: PM2 log: App [index:7] online
+2023-09-12T17:19:28: PM2 log: App [index:8] starting in -cluster mode-
+2023-09-12T17:19:28: PM2 log: App [index:8] online
+2023-09-12T17:19:28: PM2 log: App [index:9] starting in -cluster mode-
+2023-09-12T17:19:28: PM2 log: App [index:9] online
+2023-09-12T17:21:03: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2023-09-12T17:21:03: PM2 log: Deleting process 0
+2023-09-12T17:21:03: PM2 log: Stopping app:index id:0
+2023-09-12T17:21:04: PM2 log: App name:index id:7 disconnected
+2023-09-12T17:21:04: PM2 log: App name:index id:8 disconnected
+2023-09-12T17:21:04: PM2 log: App name:index id:5 disconnected
+2023-09-12T17:21:04: PM2 log: App name:index id:9 disconnected
+2023-09-12T17:21:04: PM2 log: App name:index id:2 disconnected
+2023-09-12T17:21:04: PM2 log: App name:index id:4 disconnected
+2023-09-12T17:21:04: PM2 log: App name:index id:0 disconnected
+2023-09-12T17:21:04: PM2 log: App name:index id:6 disconnected
+2023-09-12T17:21:04: PM2 log: App name:index id:1 disconnected
+2023-09-12T17:21:04: PM2 log: App name:index id:3 disconnected
+2023-09-12T17:21:04: PM2 log: App [index:0] exited with code [0] via signal [SIGTERM]
+2023-09-12T17:21:04: PM2 log: App [index:1] exited with code [0] via signal [SIGTERM]
+2023-09-12T17:21:04: PM2 log: App [index:2] exited with code [0] via signal [SIGTERM]
+2023-09-12T17:21:04: PM2 log: App [index:3] exited with code [0] via signal [SIGTERM]
+2023-09-12T17:21:04: PM2 log: App [index:4] exited with code [0] via signal [SIGHUP]
+2023-09-12T17:21:04: PM2 log: App [index:5] exited with code [0] via signal [SIGTERM]
+2023-09-12T17:21:04: PM2 log: App [index:6] exited with code [0] via signal [SIGHUP]
+2023-09-12T17:21:04: PM2 log: App [index:7] exited with code [0] via signal [SIGHUP]
+2023-09-12T17:21:04: PM2 log: App [index:8] exited with code [0] via signal [SIGTERM]
+2023-09-12T17:21:04: PM2 log: App [index:9] exited with code [0] via signal [SIGTERM]
+2023-09-12T17:21:04: PM2 log: App [index:1] starting in -cluster mode-
+2023-09-12T17:21:04: PM2 log: App [index:2] starting in -cluster mode-
+2023-09-12T17:21:04: PM2 log: App [index:3] starting in -cluster mode-
+2023-09-12T17:21:04: PM2 log: App [index:4] starting in -cluster mode-
+2023-09-12T17:21:04: PM2 log: App [index:5] starting in -cluster mode-
+2023-09-12T17:21:04: PM2 log: App [index:6] starting in -cluster mode-
+2023-09-12T17:21:04: PM2 log: App [index:7] starting in -cluster mode-
+2023-09-12T17:21:04: PM2 log: App [index:8] starting in -cluster mode-
+2023-09-12T17:21:04: PM2 log: App [index:9] starting in -cluster mode-
+2023-09-12T17:21:04: PM2 log: App [index:3] online
+2023-09-12T17:21:04: PM2 log: App [index:2] online
+2023-09-12T17:21:04: PM2 log: App [index:4] online
+2023-09-12T17:21:04: PM2 log: App [index:1] online
+2023-09-12T17:21:04: PM2 log: App [index:7] online
+2023-09-12T17:21:04: PM2 log: pid=1996 msg=process killed
+2023-09-12T17:21:04: PM2 log: Deleting process 1
+2023-09-12T17:21:04: PM2 log: Stopping app:index id:1
+2023-09-12T17:21:04: PM2 log: App [index:5] online
+2023-09-12T17:21:04: PM2 log: App [index:8] online
+2023-09-12T17:21:04: PM2 log: App [index:6] online
+2023-09-12T17:21:04: PM2 log: App name:index id:1 disconnected
+2023-09-12T17:21:04: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-09-12T17:21:04: PM2 log: App [index:9] online
+2023-09-12T17:21:04: PM2 log: pid=2269 msg=process killed
+2023-09-12T17:21:04: PM2 log: Deleting process 2
+2023-09-12T17:21:04: PM2 log: Stopping app:index id:2
+2023-09-12T17:21:04: PM2 log: App name:index id:2 disconnected
+2023-09-12T17:21:04: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-09-12T17:21:04: PM2 log: pid=2270 msg=process killed
+2023-09-12T17:21:04: PM2 log: Deleting process 3
+2023-09-12T17:21:04: PM2 log: Stopping app:index id:3
+2023-09-12T17:21:04: PM2 log: App name:index id:3 disconnected
+2023-09-12T17:21:04: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-09-12T17:21:04: PM2 log: pid=2276 msg=process killed
+2023-09-12T17:21:04: PM2 log: Deleting process 4
+2023-09-12T17:21:04: PM2 log: Stopping app:index id:4
+2023-09-12T17:21:04: PM2 log: App name:index id:4 disconnected
+2023-09-12T17:21:04: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-09-12T17:21:04: PM2 log: pid=2278 msg=process killed
+2023-09-12T17:21:04: PM2 log: Deleting process 5
+2023-09-12T17:21:04: PM2 log: Stopping app:index id:5
+2023-09-12T17:21:04: PM2 log: App name:index id:5 disconnected
+2023-09-12T17:21:04: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-09-12T17:21:04: PM2 log: pid=2281 msg=process killed
+2023-09-12T17:21:04: PM2 log: Deleting process 6
+2023-09-12T17:21:04: PM2 log: Stopping app:index id:6
+2023-09-12T17:21:04: PM2 log: App name:index id:6 disconnected
+2023-09-12T17:21:04: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-09-12T17:21:05: PM2 log: pid=2312 msg=process killed
+2023-09-12T17:21:05: PM2 log: Deleting process 7
+2023-09-12T17:21:05: PM2 log: Stopping app:index id:7
+2023-09-12T17:21:05: PM2 log: App name:index id:7 disconnected
+2023-09-12T17:21:05: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-09-12T17:21:05: PM2 log: pid=2314 msg=process killed
+2023-09-12T17:21:05: PM2 log: Deleting process 8
+2023-09-12T17:21:05: PM2 log: Stopping app:index id:8
+2023-09-12T17:21:05: PM2 log: App name:index id:8 disconnected
+2023-09-12T17:21:05: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-09-12T17:21:05: PM2 log: pid=2325 msg=process killed
+2023-09-12T17:21:05: PM2 log: Deleting process 9
+2023-09-12T17:21:05: PM2 log: Stopping app:index id:9
+2023-09-12T17:21:05: PM2 log: App name:index id:9 disconnected
+2023-09-12T17:21:05: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-09-12T17:21:05: PM2 log: pid=2341 msg=process killed
+2023-09-12T17:21:05: PM2 log: Exited peacefully
+2023-09-12T17:21:25: PM2 log: ===============================================================================
+2023-09-12T17:21:25: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-12T17:21:25: PM2 log: Time                 : Tue Sep 12 2023 17:21:25 GMT+0000 (Coordinated Universal Time)
+2023-09-12T17:21:25: PM2 log: PM2 version          : 5.3.0
+2023-09-12T17:21:25: PM2 log: Node.js version      : 18.15.0
+2023-09-12T17:21:25: PM2 log: Current arch         : x64
+2023-09-12T17:21:25: PM2 log: PM2 home             : /home/svc/.pm2
+2023-09-12T17:21:25: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-09-12T17:21:25: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-09-12T17:21:25: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-09-12T17:21:25: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-09-12T17:21:25: PM2 log: Worker Interval      : 30000
+2023-09-12T17:21:25: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-09-12T17:21:25: PM2 log: Concurrent actions   : 2
+2023-09-12T17:21:25: PM2 log: SIGTERM timeout      : 1600
+2023-09-12T17:21:25: PM2 log: ===============================================================================
+2023-09-12T17:21:25: PM2 log: App [index:0] starting in -cluster mode-
+2023-09-12T17:21:25: PM2 log: App [index:1] starting in -cluster mode-
+2023-09-12T17:21:25: PM2 log: App [index:0] online
+2023-09-12T17:21:25: PM2 log: App [index:2] starting in -cluster mode-
+2023-09-12T17:21:25: PM2 log: App [index:1] online
+2023-09-12T17:21:25: PM2 log: App [index:3] starting in -cluster mode-
+2023-09-12T17:21:25: PM2 log: App [index:2] online
+2023-09-12T17:21:25: PM2 log: App [index:4] starting in -cluster mode-
+2023-09-12T17:21:25: PM2 log: App [index:3] online
+2023-09-12T17:21:25: PM2 log: App [index:5] starting in -cluster mode-
+2023-09-12T17:21:25: PM2 log: App [index:4] online
+2023-09-12T17:21:25: PM2 log: App [index:6] starting in -cluster mode-
+2023-09-12T17:21:25: PM2 log: App [index:5] online
+2023-09-12T17:21:25: PM2 log: App [index:7] starting in -cluster mode-
+2023-09-12T17:21:25: PM2 log: App [index:6] online
+2023-09-12T17:21:25: PM2 log: App [index:8] starting in -cluster mode-
+2023-09-12T17:21:25: PM2 log: App [index:7] online
+2023-09-12T17:21:25: PM2 log: App [index:9] starting in -cluster mode-
+2023-09-12T17:21:26: PM2 log: App [index:8] online
+2023-09-12T17:21:26: PM2 log: App [index:9] online
+2023-09-12T17:50:40: PM2 log: Stopping app:index id:0
+2023-09-12T17:50:40: PM2 log: Stopping app:index id:1
+2023-09-12T17:50:40: PM2 log: Stopping app:index id:2
+2023-09-12T17:50:40: PM2 log: Stopping app:index id:3
+2023-09-12T17:50:40: PM2 log: Stopping app:index id:4
+2023-09-12T17:50:40: PM2 log: Stopping app:index id:5
+2023-09-12T17:50:40: PM2 log: Stopping app:index id:6
+2023-09-12T17:50:40: PM2 log: Stopping app:index id:7
+2023-09-12T17:50:40: PM2 log: Stopping app:index id:8
+2023-09-12T17:50:40: PM2 log: Stopping app:index id:9
+2023-09-12T17:50:40: PM2 log: App name:index id:2 disconnected
+2023-09-12T17:50:40: PM2 log: App name:index id:7 disconnected
+2023-09-12T17:50:40: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-09-12T17:50:40: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-09-12T17:50:40: PM2 log: App name:index id:1 disconnected
+2023-09-12T17:50:40: PM2 log: App name:index id:4 disconnected
+2023-09-12T17:50:40: PM2 log: App name:index id:5 disconnected
+2023-09-12T17:50:40: PM2 log: App name:index id:3 disconnected
+2023-09-12T17:50:40: PM2 log: App name:index id:6 disconnected
+2023-09-12T17:50:40: PM2 log: App name:index id:0 disconnected
+2023-09-12T17:50:40: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-09-12T17:50:40: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-09-12T17:50:40: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-09-12T17:50:40: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-09-12T17:50:40: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-09-12T17:50:40: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-09-12T17:50:40: PM2 log: App name:index id:9 disconnected
+2023-09-12T17:50:40: PM2 log: App name:index id:8 disconnected
+2023-09-12T17:50:40: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-09-12T17:50:40: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-09-12T17:50:40: PM2 log: pid=1340 msg=process killed
+2023-09-12T17:50:40: PM2 log: pid=1334 msg=process killed
+2023-09-12T17:50:40: PM2 log: pid=1316 msg=process killed
+2023-09-12T17:50:40: PM2 log: pid=1315 msg=process killed
+2023-09-12T17:50:40: PM2 log: pid=1279 msg=process killed
+2023-09-12T17:50:40: PM2 log: pid=1272 msg=process killed
+2023-09-12T17:50:40: PM2 log: pid=1401 msg=process killed
+2023-09-12T17:50:40: PM2 log: pid=1358 msg=process killed
+2023-09-12T17:50:40: PM2 log: pid=1433 msg=process killed
+2023-09-12T17:50:40: PM2 log: pid=1439 msg=process killed
+2023-09-12T17:50:40: PM2 log: PM2 successfully stopped
+2023-09-14T03:10:32: PM2 log: ===============================================================================
+2023-09-14T03:10:32: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-14T03:10:32: PM2 log: Time                 : Thu Sep 14 2023 03:10:32 GMT+0000 (Coordinated Universal Time)
+2023-09-14T03:10:32: PM2 log: PM2 version          : 5.3.0
+2023-09-14T03:10:32: PM2 log: Node.js version      : 18.15.0
+2023-09-14T03:10:32: PM2 log: Current arch         : x64
+2023-09-14T03:10:32: PM2 log: PM2 home             : /home/svc/.pm2
+2023-09-14T03:10:32: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-09-14T03:10:32: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-09-14T03:10:32: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-09-14T03:10:32: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-09-14T03:10:32: PM2 log: Worker Interval      : 30000
+2023-09-14T03:10:32: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-09-14T03:10:32: PM2 log: Concurrent actions   : 2
+2023-09-14T03:10:32: PM2 log: SIGTERM timeout      : 1600
+2023-09-14T03:10:32: PM2 log: ===============================================================================
+2023-09-14T03:10:32: PM2 log: App [index:0] starting in -cluster mode-
+2023-09-14T03:10:32: PM2 log: App [index:1] starting in -cluster mode-
+2023-09-14T03:10:32: PM2 log: App [index:1] online
+2023-09-14T03:10:32: PM2 log: App [index:2] starting in -cluster mode-
+2023-09-14T03:10:32: PM2 log: App [index:0] online
+2023-09-14T03:10:32: PM2 log: App [index:3] starting in -cluster mode-
+2023-09-14T03:10:33: PM2 log: App [index:3] online
+2023-09-14T03:10:33: PM2 log: App [index:4] starting in -cluster mode-
+2023-09-14T03:10:33: PM2 log: App [index:2] online
+2023-09-14T03:10:33: PM2 log: App [index:5] starting in -cluster mode-
+2023-09-14T03:10:33: PM2 log: App [index:4] online
+2023-09-14T03:10:33: PM2 log: App [index:6] starting in -cluster mode-
+2023-09-14T03:10:33: PM2 log: App [index:5] online
+2023-09-14T03:10:33: PM2 log: App [index:7] starting in -cluster mode-
+2023-09-14T03:10:33: PM2 log: App [index:6] online
+2023-09-14T03:10:33: PM2 log: App [index:8] starting in -cluster mode-
+2023-09-14T03:10:34: PM2 log: App [index:7] online
+2023-09-14T03:10:34: PM2 log: App [index:9] starting in -cluster mode-
+2023-09-14T03:10:34: PM2 log: App [index:8] online
+2023-09-14T03:10:35: PM2 log: App [index:9] online
+2023-09-14T03:20:18: PM2 log: Stopping app:index id:0
+2023-09-14T03:20:18: PM2 log: Stopping app:index id:1
+2023-09-14T03:20:18: PM2 log: Stopping app:index id:2
+2023-09-14T03:20:18: PM2 log: Stopping app:index id:3
+2023-09-14T03:20:18: PM2 log: Stopping app:index id:4
+2023-09-14T03:20:18: PM2 log: Stopping app:index id:5
+2023-09-14T03:20:18: PM2 log: Stopping app:index id:6
+2023-09-14T03:20:18: PM2 log: Stopping app:index id:7
+2023-09-14T03:20:18: PM2 log: Stopping app:index id:8
+2023-09-14T03:20:18: PM2 log: Stopping app:index id:9
+2023-09-14T03:20:18: PM2 log: App name:index id:8 disconnected
+2023-09-14T03:20:18: PM2 log: App name:index id:1 disconnected
+2023-09-14T03:20:18: PM2 log: App name:index id:4 disconnected
+2023-09-14T03:20:18: PM2 log: App name:index id:3 disconnected
+2023-09-14T03:20:18: PM2 log: App name:index id:7 disconnected
+2023-09-14T03:20:18: PM2 log: App name:index id:0 disconnected
+2023-09-14T03:20:18: PM2 log: App name:index id:6 disconnected
+2023-09-14T03:20:18: PM2 log: App name:index id:2 disconnected
+2023-09-14T03:20:18: PM2 log: App name:index id:5 disconnected
+2023-09-14T03:20:18: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-09-14T03:20:18: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-09-14T03:20:18: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-09-14T03:20:18: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-09-14T03:20:18: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-09-14T03:20:18: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-09-14T03:20:18: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-09-14T03:20:18: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-09-14T03:20:18: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-09-14T03:20:18: PM2 log: App name:index id:9 disconnected
+2023-09-14T03:20:18: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-09-14T03:20:18: PM2 log: pid=1305 msg=process killed
+2023-09-14T03:20:18: PM2 log: pid=1277 msg=process killed
+2023-09-14T03:20:18: PM2 log: pid=1244 msg=process killed
+2023-09-14T03:20:18: PM2 log: pid=1229 msg=process killed
+2023-09-14T03:20:18: PM2 log: pid=1215 msg=process killed
+2023-09-14T03:20:18: PM2 log: pid=1198 msg=process killed
+2023-09-14T03:20:18: PM2 log: pid=1185 msg=process killed
+2023-09-14T03:20:18: PM2 log: pid=1184 msg=process killed
+2023-09-14T03:20:18: PM2 log: pid=1336 msg=process killed
+2023-09-14T03:20:18: PM2 log: pid=1438 msg=process killed
+2023-09-14T03:20:18: PM2 log: PM2 successfully stopped
+2023-09-14T03:21:11: PM2 log: ===============================================================================
+2023-09-14T03:21:11: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-14T03:21:11: PM2 log: Time                 : Thu Sep 14 2023 03:21:11 GMT+0000 (Coordinated Universal Time)
+2023-09-14T03:21:11: PM2 log: PM2 version          : 5.3.0
+2023-09-14T03:21:11: PM2 log: Node.js version      : 18.15.0
+2023-09-14T03:21:11: PM2 log: Current arch         : x64
+2023-09-14T03:21:11: PM2 log: PM2 home             : /home/svc/.pm2
+2023-09-14T03:21:11: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-09-14T03:21:11: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-09-14T03:21:11: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-09-14T03:21:11: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-09-14T03:21:11: PM2 log: Worker Interval      : 30000
+2023-09-14T03:21:11: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-09-14T03:21:11: PM2 log: Concurrent actions   : 2
+2023-09-14T03:21:11: PM2 log: SIGTERM timeout      : 1600
+2023-09-14T03:21:11: PM2 log: ===============================================================================
+2023-09-14T03:21:11: PM2 log: App [index:0] starting in -cluster mode-
+2023-09-14T03:21:11: PM2 log: App [index:1] starting in -cluster mode-
+2023-09-14T03:21:11: PM2 log: App [index:0] online
+2023-09-14T03:21:11: PM2 log: App [index:2] starting in -cluster mode-
+2023-09-14T03:21:11: PM2 log: App [index:1] online
+2023-09-14T03:21:11: PM2 log: App [index:3] starting in -cluster mode-
+2023-09-14T03:21:12: PM2 log: App [index:2] online
+2023-09-14T03:21:12: PM2 log: App [index:4] starting in -cluster mode-
+2023-09-14T03:21:12: PM2 log: App [index:3] online
+2023-09-14T03:21:12: PM2 log: App [index:5] starting in -cluster mode-
+2023-09-14T03:21:12: PM2 log: App [index:4] online
+2023-09-14T03:21:12: PM2 log: App [index:6] starting in -cluster mode-
+2023-09-14T03:21:12: PM2 log: App [index:5] online
+2023-09-14T03:21:12: PM2 log: App [index:7] starting in -cluster mode-
+2023-09-14T03:21:12: PM2 log: App [index:6] online
+2023-09-14T03:21:12: PM2 log: App [index:8] starting in -cluster mode-
+2023-09-14T03:21:12: PM2 log: App [index:7] online
+2023-09-14T03:21:12: PM2 log: App [index:9] starting in -cluster mode-
+2023-09-14T03:21:12: PM2 log: App [index:8] online
+2023-09-14T03:21:13: PM2 log: App [index:9] online
+2023-09-14T03:39:11: PM2 log: Stopping app:index id:0
+2023-09-14T03:39:11: PM2 log: Stopping app:index id:1
+2023-09-14T03:39:11: PM2 log: Stopping app:index id:2
+2023-09-14T03:39:11: PM2 log: Stopping app:index id:3
+2023-09-14T03:39:11: PM2 log: Stopping app:index id:4
+2023-09-14T03:39:11: PM2 log: Stopping app:index id:5
+2023-09-14T03:39:11: PM2 log: Stopping app:index id:6
+2023-09-14T03:39:11: PM2 log: Stopping app:index id:7
+2023-09-14T03:39:12: PM2 log: Stopping app:index id:8
+2023-09-14T03:39:12: PM2 log: Stopping app:index id:9
+2023-09-14T03:39:12: PM2 log: App name:index id:9 disconnected
+2023-09-14T03:39:12: PM2 log: App name:index id:0 disconnected
+2023-09-14T03:39:12: PM2 log: App name:index id:3 disconnected
+2023-09-14T03:39:12: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-09-14T03:39:12: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-09-14T03:39:12: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-09-14T03:39:12: PM2 log: App name:index id:2 disconnected
+2023-09-14T03:39:12: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-09-14T03:39:12: PM2 log: App name:index id:8 disconnected
+2023-09-14T03:39:12: PM2 log: App name:index id:7 disconnected
+2023-09-14T03:39:12: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-09-14T03:39:12: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-09-14T03:39:12: PM2 log: App name:index id:4 disconnected
+2023-09-14T03:39:12: PM2 log: App name:index id:1 disconnected
+2023-09-14T03:39:12: PM2 log: App name:index id:6 disconnected
+2023-09-14T03:39:12: PM2 log: App name:index id:5 disconnected
+2023-09-14T03:39:12: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-09-14T03:39:12: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-09-14T03:39:12: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-09-14T03:39:12: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-09-14T03:39:12: PM2 log: pid=1433 msg=process killed
+2023-09-14T03:39:12: PM2 log: pid=1408 msg=process killed
+2023-09-14T03:39:12: PM2 log: pid=1374 msg=process killed
+2023-09-14T03:39:12: PM2 log: pid=1335 msg=process killed
+2023-09-14T03:39:12: PM2 log: pid=1330 msg=process killed
+2023-09-14T03:39:12: PM2 log: pid=1229 msg=process killed
+2023-09-14T03:39:12: PM2 log: pid=1226 msg=process killed
+2023-09-14T03:39:12: PM2 log: pid=1193 msg=process killed
+2023-09-14T03:39:12: PM2 log: pid=1192 msg=process killed
+2023-09-14T03:39:12: PM2 log: pid=1440 msg=process killed
+2023-09-14T03:39:12: PM2 log: PM2 successfully stopped
+2023-09-14T14:42:06: PM2 log: ===============================================================================
+2023-09-14T14:42:06: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-14T14:42:06: PM2 log: Time                 : Thu Sep 14 2023 14:42:06 GMT+0000 (Coordinated Universal Time)
+2023-09-14T14:42:06: PM2 log: PM2 version          : 5.3.0
+2023-09-14T14:42:06: PM2 log: Node.js version      : 18.15.0
+2023-09-14T14:42:06: PM2 log: Current arch         : x64
+2023-09-14T14:42:06: PM2 log: PM2 home             : /home/svc/.pm2
+2023-09-14T14:42:06: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-09-14T14:42:06: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-09-14T14:42:06: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-09-14T14:42:06: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-09-14T14:42:06: PM2 log: Worker Interval      : 30000
+2023-09-14T14:42:06: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-09-14T14:42:06: PM2 log: Concurrent actions   : 2
+2023-09-14T14:42:06: PM2 log: SIGTERM timeout      : 1600
+2023-09-14T14:42:06: PM2 log: ===============================================================================
+2023-09-14T14:42:06: PM2 log: App [index:0] starting in -cluster mode-
+2023-09-14T14:42:06: PM2 log: App [index:1] starting in -cluster mode-
+2023-09-14T14:42:06: PM2 log: App [index:0] online
+2023-09-14T14:42:06: PM2 log: App [index:1] online
+2023-09-14T14:42:06: PM2 log: App [index:2] starting in -cluster mode-
+2023-09-14T14:42:06: PM2 log: App [index:3] starting in -cluster mode-
+2023-09-14T14:42:06: PM2 log: App [index:2] online
+2023-09-14T14:42:06: PM2 log: App [index:4] starting in -cluster mode-
+2023-09-14T14:42:06: PM2 log: App [index:3] online
+2023-09-14T14:42:06: PM2 log: App [index:5] starting in -cluster mode-
+2023-09-14T14:42:06: PM2 log: App [index:4] online
+2023-09-14T14:42:06: PM2 log: App [index:6] starting in -cluster mode-
+2023-09-14T14:42:06: PM2 log: App [index:5] online
+2023-09-14T14:42:06: PM2 log: App [index:7] starting in -cluster mode-
+2023-09-14T14:42:07: PM2 log: App [index:6] online
+2023-09-14T14:42:07: PM2 log: App [index:8] starting in -cluster mode-
+2023-09-14T14:42:07: PM2 log: App [index:7] online
+2023-09-14T14:42:07: PM2 log: App [index:9] starting in -cluster mode-
+2023-09-14T14:42:07: PM2 log: App [index:8] online
+2023-09-14T14:42:07: PM2 log: App [index:9] online
+2023-09-14T14:47:49: PM2 log: Stopping app:index id:0
+2023-09-14T14:47:49: PM2 log: Stopping app:index id:1
+2023-09-14T14:47:49: PM2 log: Stopping app:index id:2
+2023-09-14T14:47:49: PM2 log: Stopping app:index id:3
+2023-09-14T14:47:49: PM2 log: Stopping app:index id:4
+2023-09-14T14:47:49: PM2 log: Stopping app:index id:5
+2023-09-14T14:47:49: PM2 log: Stopping app:index id:6
+2023-09-14T14:47:49: PM2 log: Stopping app:index id:7
+2023-09-14T14:47:49: PM2 log: Stopping app:index id:8
+2023-09-14T14:47:49: PM2 log: Stopping app:index id:9
+2023-09-14T14:47:49: PM2 log: App name:index id:2 disconnected
+2023-09-14T14:47:49: PM2 log: App name:index id:0 disconnected
+2023-09-14T14:47:49: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-09-14T14:47:49: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-09-14T14:47:49: PM2 log: App name:index id:5 disconnected
+2023-09-14T14:47:49: PM2 log: App name:index id:1 disconnected
+2023-09-14T14:47:49: PM2 log: App name:index id:4 disconnected
+2023-09-14T14:47:49: PM2 log: App name:index id:7 disconnected
+2023-09-14T14:47:49: PM2 log: App name:index id:6 disconnected
+2023-09-14T14:47:49: PM2 log: App name:index id:3 disconnected
+2023-09-14T14:47:49: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-09-14T14:47:49: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-09-14T14:47:49: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-09-14T14:47:49: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-09-14T14:47:49: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-09-14T14:47:49: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-09-14T14:47:49: PM2 log: App name:index id:8 disconnected
+2023-09-14T14:47:49: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-09-14T14:47:49: PM2 log: App name:index id:9 disconnected
+2023-09-14T14:47:49: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-09-14T14:47:49: PM2 log: pid=1363 msg=process killed
+2023-09-14T14:47:49: PM2 log: pid=1351 msg=process killed
+2023-09-14T14:47:49: PM2 log: pid=1262 msg=process killed
+2023-09-14T14:47:49: PM2 log: pid=1237 msg=process killed
+2023-09-14T14:47:49: PM2 log: pid=1203 msg=process killed
+2023-09-14T14:47:49: PM2 log: pid=1202 msg=process killed
+2023-09-14T14:47:49: PM2 log: pid=1165 msg=process killed
+2023-09-14T14:47:49: PM2 log: pid=1162 msg=process killed
+2023-09-14T14:47:49: PM2 log: pid=1403 msg=process killed
+2023-09-14T14:47:49: PM2 log: pid=1429 msg=process killed
+2023-09-14T14:47:49: PM2 log: PM2 successfully stopped
+2023-09-26T09:34:41: PM2 log: ===============================================================================
+2023-09-26T09:34:41: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-26T09:34:41: PM2 log: Time                 : Tue Sep 26 2023 09:34:41 GMT+0000 (Coordinated Universal Time)
+2023-09-26T09:34:41: PM2 log: PM2 version          : 5.3.0
+2023-09-26T09:34:41: PM2 log: Node.js version      : 18.15.0
+2023-09-26T09:34:41: PM2 log: Current arch         : x64
+2023-09-26T09:34:41: PM2 log: PM2 home             : /home/svc/.pm2
+2023-09-26T09:34:41: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-09-26T09:34:41: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-09-26T09:34:41: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-09-26T09:34:41: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-09-26T09:34:41: PM2 log: Worker Interval      : 30000
+2023-09-26T09:34:41: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-09-26T09:34:41: PM2 log: Concurrent actions   : 2
+2023-09-26T09:34:41: PM2 log: SIGTERM timeout      : 1600
+2023-09-26T09:34:41: PM2 log: ===============================================================================
+2023-09-26T09:34:41: PM2 log: App [index:0] starting in -cluster mode-
+2023-09-26T09:34:41: PM2 log: App [index:1] starting in -cluster mode-
+2023-09-26T09:34:41: PM2 log: App [index:0] online
+2023-09-26T09:34:41: PM2 log: App [index:2] starting in -cluster mode-
+2023-09-26T09:34:41: PM2 log: App [index:1] online
+2023-09-26T09:34:41: PM2 log: App [index:3] starting in -cluster mode-
+2023-09-26T09:34:41: PM2 log: App [index:3] online
+2023-09-26T09:34:41: PM2 log: App [index:4] starting in -cluster mode-
+2023-09-26T09:34:41: PM2 log: App [index:2] online
+2023-09-26T09:34:41: PM2 log: App [index:5] starting in -cluster mode-
+2023-09-26T09:34:41: PM2 log: App [index:4] online
+2023-09-26T09:34:41: PM2 log: App [index:6] starting in -cluster mode-
+2023-09-26T09:34:41: PM2 log: App [index:5] online
+2023-09-26T09:34:41: PM2 log: App [index:7] starting in -cluster mode-
+2023-09-26T09:34:41: PM2 log: App [index:6] online
+2023-09-26T09:34:41: PM2 log: App [index:8] starting in -cluster mode-
+2023-09-26T09:34:41: PM2 log: App [index:7] online
+2023-09-26T09:34:41: PM2 log: App [index:9] starting in -cluster mode-
+2023-09-26T09:34:41: PM2 log: App [index:8] online
+2023-09-26T09:34:42: PM2 log: App [index:9] online
+2023-09-26T09:53:07: PM2 log: Stopping app:index id:0
+2023-09-26T09:53:07: PM2 log: Stopping app:index id:1
+2023-09-26T09:53:07: PM2 log: Stopping app:index id:2
+2023-09-26T09:53:07: PM2 log: Stopping app:index id:3
+2023-09-26T09:53:07: PM2 log: Stopping app:index id:4
+2023-09-26T09:53:07: PM2 log: Stopping app:index id:5
+2023-09-26T09:53:07: PM2 log: Stopping app:index id:6
+2023-09-26T09:53:07: PM2 log: Stopping app:index id:7
+2023-09-26T09:53:07: PM2 log: Stopping app:index id:8
+2023-09-26T09:53:07: PM2 log: Stopping app:index id:9
+2023-09-26T09:53:07: PM2 log: App name:index id:4 disconnected
+2023-09-26T09:53:07: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-09-26T09:53:07: PM2 log: App name:index id:6 disconnected
+2023-09-26T09:53:07: PM2 log: App name:index id:1 disconnected
+2023-09-26T09:53:07: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-09-26T09:53:07: PM2 log: App name:index id:5 disconnected
+2023-09-26T09:53:07: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-09-26T09:53:07: PM2 log: App name:index id:8 disconnected
+2023-09-26T09:53:07: PM2 log: App name:index id:3 disconnected
+2023-09-26T09:53:07: PM2 log: App name:index id:0 disconnected
+2023-09-26T09:53:07: PM2 log: App name:index id:2 disconnected
+2023-09-26T09:53:07: PM2 log: App name:index id:7 disconnected
+2023-09-26T09:53:07: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-09-26T09:53:07: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-09-26T09:53:07: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-09-26T09:53:07: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-09-26T09:53:07: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-09-26T09:53:07: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-09-26T09:53:07: PM2 log: App name:index id:9 disconnected
+2023-09-26T09:53:07: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-09-26T09:53:07: PM2 log: pid=1353 msg=process killed
+2023-09-26T09:53:07: PM2 log: pid=1254 msg=process killed
+2023-09-26T09:53:07: PM2 log: pid=1235 msg=process killed
+2023-09-26T09:53:07: PM2 log: pid=1220 msg=process killed
+2023-09-26T09:53:07: PM2 log: pid=1183 msg=process killed
+2023-09-26T09:53:07: PM2 log: pid=1177 msg=process killed
+2023-09-26T09:53:07: PM2 log: pid=1160 msg=process killed
+2023-09-26T09:53:07: PM2 log: pid=1159 msg=process killed
+2023-09-26T09:53:07: PM2 log: pid=1376 msg=process killed
+2023-09-26T09:53:08: PM2 log: pid=1419 msg=process killed
+2023-09-26T09:53:08: PM2 log: PM2 successfully stopped
+2023-09-26T09:53:08: PM2 log: ===============================================================================
+2023-09-26T09:53:08: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-26T09:53:08: PM2 log: Time                 : Tue Sep 26 2023 09:53:08 GMT+0000 (Coordinated Universal Time)
+2023-09-26T09:53:08: PM2 log: PM2 version          : 5.3.0
+2023-09-26T09:53:08: PM2 log: Node.js version      : 18.17.1
+2023-09-26T09:53:08: PM2 log: Current arch         : x64
+2023-09-26T09:53:08: PM2 log: PM2 home             : /home/svc/.pm2
+2023-09-26T09:53:08: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-09-26T09:53:08: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-09-26T09:53:08: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-09-26T09:53:08: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-09-26T09:53:08: PM2 log: Worker Interval      : 30000
+2023-09-26T09:53:08: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-09-26T09:53:08: PM2 log: Concurrent actions   : 2
+2023-09-26T09:53:08: PM2 log: SIGTERM timeout      : 1600
+2023-09-26T09:53:08: PM2 log: ===============================================================================
+2023-09-26T09:53:08: PM2 log: App [index:0] starting in -cluster mode-
+2023-09-26T09:53:08: PM2 log: App [index:1] starting in -cluster mode-
+2023-09-26T09:53:08: PM2 log: App [index:0] online
+2023-09-26T09:53:08: PM2 log: App [index:2] starting in -cluster mode-
+2023-09-26T09:53:08: PM2 log: App [index:1] online
+2023-09-26T09:53:08: PM2 log: App [index:3] starting in -cluster mode-
+2023-09-26T09:53:09: PM2 log: App [index:2] online
+2023-09-26T09:53:09: PM2 log: App [index:4] starting in -cluster mode-
+2023-09-26T09:53:09: PM2 log: App [index:3] online
+2023-09-26T09:53:09: PM2 log: App [index:5] starting in -cluster mode-
+2023-09-26T09:53:09: PM2 log: App [index:4] online
+2023-09-26T09:53:09: PM2 log: App [index:6] starting in -cluster mode-
+2023-09-26T09:53:09: PM2 log: App [index:5] online
+2023-09-26T09:53:09: PM2 log: App [index:7] starting in -cluster mode-
+2023-09-26T09:53:09: PM2 log: App [index:6] online
+2023-09-26T09:53:09: PM2 log: App [index:8] starting in -cluster mode-
+2023-09-26T09:53:09: PM2 log: App [index:7] online
+2023-09-26T09:53:09: PM2 log: App [index:9] starting in -cluster mode-
+2023-09-26T09:53:09: PM2 log: App [index:8] online
+2023-09-26T09:53:09: PM2 log: App [index:9] online
+2023-09-26T10:01:18: PM2 log: Stopping app:index id:0
+2023-09-26T10:01:18: PM2 log: Stopping app:index id:1
+2023-09-26T10:01:18: PM2 log: Stopping app:index id:2
+2023-09-26T10:01:18: PM2 log: Stopping app:index id:3
+2023-09-26T10:01:18: PM2 log: Stopping app:index id:4
+2023-09-26T10:01:18: PM2 log: Stopping app:index id:5
+2023-09-26T10:01:18: PM2 log: Stopping app:index id:6
+2023-09-26T10:01:18: PM2 log: Stopping app:index id:7
+2023-09-26T10:01:18: PM2 log: Stopping app:index id:8
+2023-09-26T10:01:18: PM2 log: Stopping app:index id:9
+2023-09-26T10:01:18: PM2 log: App name:index id:2 disconnected
+2023-09-26T10:01:18: PM2 log: App name:index id:6 disconnected
+2023-09-26T10:01:18: PM2 log: App name:index id:5 disconnected
+2023-09-26T10:01:18: PM2 log: App name:index id:1 disconnected
+2023-09-26T10:01:18: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-09-26T10:01:18: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-09-26T10:01:18: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-09-26T10:01:18: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-09-26T10:01:18: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-09-26T10:01:18: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-09-26T10:01:18: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-09-26T10:01:18: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-09-26T10:01:18: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-09-26T10:01:18: PM2 log: App name:index id:0 disconnected
+2023-09-26T10:01:18: PM2 log: App name:index id:9 disconnected
+2023-09-26T10:01:18: PM2 log: App name:index id:4 disconnected
+2023-09-26T10:01:18: PM2 log: App name:index id:7 disconnected
+2023-09-26T10:01:18: PM2 log: App name:index id:3 disconnected
+2023-09-26T10:01:18: PM2 log: App name:index id:8 disconnected
+2023-09-26T10:01:18: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-09-26T10:01:18: PM2 log: pid=47684 msg=process killed
+2023-09-26T10:01:18: PM2 log: pid=47673 msg=process killed
+2023-09-26T10:01:18: PM2 log: pid=47661 msg=process killed
+2023-09-26T10:01:18: PM2 log: pid=47660 msg=process killed
+2023-09-26T10:01:18: PM2 log: pid=47647 msg=process killed
+2023-09-26T10:01:18: PM2 log: pid=47646 msg=process killed
+2023-09-26T10:01:18: PM2 log: pid=47633 msg=process killed
+2023-09-26T10:01:18: PM2 log: pid=47632 msg=process killed
+2023-09-26T10:01:18: PM2 log: pid=47702 msg=process killed
+2023-09-26T10:01:18: PM2 log: pid=47695 msg=process killed
+2023-09-26T10:01:18: PM2 log: PM2 successfully stopped
+2023-09-26T10:37:09: PM2 log: ===============================================================================
+2023-09-26T10:37:09: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-26T10:37:09: PM2 log: Time                 : Tue Sep 26 2023 10:37:09 GMT+0000 (Coordinated Universal Time)
+2023-09-26T10:37:09: PM2 log: PM2 version          : 5.3.0
+2023-09-26T10:37:09: PM2 log: Node.js version      : 18.17.1
+2023-09-26T10:37:09: PM2 log: Current arch         : x64
+2023-09-26T10:37:09: PM2 log: PM2 home             : /home/svc/.pm2
+2023-09-26T10:37:09: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-09-26T10:37:09: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-09-26T10:37:09: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-09-26T10:37:09: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-09-26T10:37:09: PM2 log: Worker Interval      : 30000
+2023-09-26T10:37:09: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-09-26T10:37:09: PM2 log: Concurrent actions   : 2
+2023-09-26T10:37:09: PM2 log: SIGTERM timeout      : 1600
+2023-09-26T10:37:09: PM2 log: ===============================================================================
+2023-09-26T10:37:09: PM2 log: App [index:0] starting in -cluster mode-
+2023-09-26T10:37:09: PM2 log: App [index:1] starting in -cluster mode-
+2023-09-26T10:37:09: PM2 log: App [index:0] online
+2023-09-26T10:37:09: PM2 log: App [index:2] starting in -cluster mode-
+2023-09-26T10:37:09: PM2 log: App [index:1] online
+2023-09-26T10:37:09: PM2 log: App [index:3] starting in -cluster mode-
+2023-09-26T10:37:09: PM2 log: App [index:2] online
+2023-09-26T10:37:09: PM2 log: App [index:4] starting in -cluster mode-
+2023-09-26T10:37:09: PM2 log: App [index:3] online
+2023-09-26T10:37:09: PM2 log: App [index:5] starting in -cluster mode-
+2023-09-26T10:37:09: PM2 log: App [index:4] online
+2023-09-26T10:37:09: PM2 log: App [index:6] starting in -cluster mode-
+2023-09-26T10:37:09: PM2 log: App [index:5] online
+2023-09-26T10:37:09: PM2 log: App [index:7] starting in -cluster mode-
+2023-09-26T10:37:09: PM2 log: App [index:6] online
+2023-09-26T10:37:09: PM2 log: App [index:8] starting in -cluster mode-
+2023-09-26T10:37:09: PM2 log: App [index:7] online
+2023-09-26T10:37:09: PM2 log: App [index:9] starting in -cluster mode-
+2023-09-26T10:37:10: PM2 log: App [index:8] online
+2023-09-26T10:37:10: PM2 log: App [index:9] online
+2023-09-26T10:43:56: PM2 log: Stopping app:index id:0
+2023-09-26T10:43:56: PM2 log: Stopping app:index id:1
+2023-09-26T10:43:56: PM2 log: Stopping app:index id:2
+2023-09-26T10:43:56: PM2 log: Stopping app:index id:3
+2023-09-26T10:43:56: PM2 log: Stopping app:index id:4
+2023-09-26T10:43:56: PM2 log: Stopping app:index id:5
+2023-09-26T10:43:56: PM2 log: Stopping app:index id:6
+2023-09-26T10:43:56: PM2 log: Stopping app:index id:7
+2023-09-26T10:43:56: PM2 log: Stopping app:index id:8
+2023-09-26T10:43:56: PM2 log: Stopping app:index id:9
+2023-09-26T10:43:56: PM2 log: App name:index id:0 disconnected
+2023-09-26T10:43:56: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-09-26T10:43:56: PM2 log: App name:index id:8 disconnected
+2023-09-26T10:43:56: PM2 log: App name:index id:3 disconnected
+2023-09-26T10:43:56: PM2 log: App name:index id:5 disconnected
+2023-09-26T10:43:56: PM2 log: App name:index id:1 disconnected
+2023-09-26T10:43:56: PM2 log: App name:index id:4 disconnected
+2023-09-26T10:43:56: PM2 log: App name:index id:2 disconnected
+2023-09-26T10:43:56: PM2 log: App name:index id:6 disconnected
+2023-09-26T10:43:56: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-09-26T10:43:56: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-09-26T10:43:56: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-09-26T10:43:56: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-09-26T10:43:56: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-09-26T10:43:56: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-09-26T10:43:56: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-09-26T10:43:56: PM2 log: App name:index id:9 disconnected
+2023-09-26T10:43:56: PM2 log: App name:index id:7 disconnected
+2023-09-26T10:43:56: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-09-26T10:43:56: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-09-26T10:43:56: PM2 log: pid=1217 msg=process killed
+2023-09-26T10:43:56: PM2 log: pid=1205 msg=process killed
+2023-09-26T10:43:56: PM2 log: pid=1204 msg=process killed
+2023-09-26T10:43:56: PM2 log: pid=1191 msg=process killed
+2023-09-26T10:43:56: PM2 log: pid=1190 msg=process killed
+2023-09-26T10:43:56: PM2 log: pid=1177 msg=process killed
+2023-09-26T10:43:56: PM2 log: pid=1176 msg=process killed
+2023-09-26T10:43:56: PM2 log: pid=1240 msg=process killed
+2023-09-26T10:43:56: PM2 log: pid=1242 msg=process killed
+2023-09-26T10:43:56: PM2 log: pid=1228 msg=process killed
+2023-09-26T10:43:56: PM2 log: PM2 successfully stopped
+2023-09-26T10:45:15: PM2 log: ===============================================================================
+2023-09-26T10:45:15: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-26T10:45:15: PM2 log: Time                 : Tue Sep 26 2023 10:45:15 GMT+0000 (Coordinated Universal Time)
+2023-09-26T10:45:15: PM2 log: PM2 version          : 5.3.0
+2023-09-26T10:45:15: PM2 log: Node.js version      : 18.17.1
+2023-09-26T10:45:15: PM2 log: Current arch         : x64
+2023-09-26T10:45:15: PM2 log: PM2 home             : /home/svc/.pm2
+2023-09-26T10:45:15: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-09-26T10:45:15: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-09-26T10:45:15: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-09-26T10:45:15: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-09-26T10:45:15: PM2 log: Worker Interval      : 30000
+2023-09-26T10:45:15: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-09-26T10:45:15: PM2 log: Concurrent actions   : 2
+2023-09-26T10:45:15: PM2 log: SIGTERM timeout      : 1600
+2023-09-26T10:45:15: PM2 log: ===============================================================================
+2023-09-26T10:45:15: PM2 log: App [index:0] starting in -cluster mode-
+2023-09-26T10:45:15: PM2 log: App [index:1] starting in -cluster mode-
+2023-09-26T10:45:15: PM2 log: App [index:0] online
+2023-09-26T10:45:15: PM2 log: App [index:2] starting in -cluster mode-
+2023-09-26T10:45:15: PM2 log: App [index:1] online
+2023-09-26T10:45:15: PM2 log: App [index:3] starting in -cluster mode-
+2023-09-26T10:45:15: PM2 log: App [index:2] online
+2023-09-26T10:45:15: PM2 log: App [index:4] starting in -cluster mode-
+2023-09-26T10:45:15: PM2 log: App [index:3] online
+2023-09-26T10:45:15: PM2 log: App [index:5] starting in -cluster mode-
+2023-09-26T10:45:15: PM2 log: App [index:4] online
+2023-09-26T10:45:15: PM2 log: App [index:6] starting in -cluster mode-
+2023-09-26T10:45:16: PM2 log: App [index:5] online
+2023-09-26T10:45:16: PM2 log: App [index:7] starting in -cluster mode-
+2023-09-26T10:45:16: PM2 log: App [index:6] online
+2023-09-26T10:45:16: PM2 log: App [index:8] starting in -cluster mode-
+2023-09-26T10:45:16: PM2 log: App [index:7] online
+2023-09-26T10:45:16: PM2 log: App [index:9] starting in -cluster mode-
+2023-09-26T10:45:16: PM2 log: App [index:8] online
+2023-09-26T10:45:16: PM2 log: App [index:9] online
+2023-09-26T10:47:43: PM2 log: Stopping app:index id:0
+2023-09-26T10:47:43: PM2 log: Stopping app:index id:1
+2023-09-26T10:47:43: PM2 log: Stopping app:index id:2
+2023-09-26T10:47:43: PM2 log: Stopping app:index id:3
+2023-09-26T10:47:43: PM2 log: Stopping app:index id:4
+2023-09-26T10:47:43: PM2 log: Stopping app:index id:5
+2023-09-26T10:47:43: PM2 log: Stopping app:index id:6
+2023-09-26T10:47:43: PM2 log: Stopping app:index id:7
+2023-09-26T10:47:43: PM2 log: Stopping app:index id:8
+2023-09-26T10:47:43: PM2 log: Stopping app:index id:9
+2023-09-26T10:47:43: PM2 log: App name:index id:0 disconnected
+2023-09-26T10:47:43: PM2 log: App name:index id:3 disconnected
+2023-09-26T10:47:43: PM2 log: App name:index id:5 disconnected
+2023-09-26T10:47:43: PM2 log: App name:index id:1 disconnected
+2023-09-26T10:47:43: PM2 log: App name:index id:2 disconnected
+2023-09-26T10:47:43: PM2 log: App name:index id:4 disconnected
+2023-09-26T10:47:43: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-09-26T10:47:43: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-09-26T10:47:43: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-09-26T10:47:43: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-09-26T10:47:43: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-09-26T10:47:43: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-09-26T10:47:43: PM2 log: App name:index id:6 disconnected
+2023-09-26T10:47:43: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-09-26T10:47:43: PM2 log: App name:index id:8 disconnected
+2023-09-26T10:47:43: PM2 log: App name:index id:7 disconnected
+2023-09-26T10:47:43: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-09-26T10:47:43: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-09-26T10:47:43: PM2 log: App name:index id:9 disconnected
+2023-09-26T10:47:43: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-09-26T10:47:43: PM2 log: pid=1250 msg=process killed
+2023-09-26T10:47:43: PM2 log: pid=1248 msg=process killed
+2023-09-26T10:47:43: PM2 log: pid=1236 msg=process killed
+2023-09-26T10:47:43: PM2 log: pid=1235 msg=process killed
+2023-09-26T10:47:43: PM2 log: pid=1222 msg=process killed
+2023-09-26T10:47:43: PM2 log: pid=1221 msg=process killed
+2023-09-26T10:47:43: PM2 log: pid=1267 msg=process killed
+2023-09-26T10:47:43: PM2 log: pid=1273 msg=process killed
+2023-09-26T10:47:43: PM2 log: pid=1284 msg=process killed
+2023-09-26T10:47:43: PM2 log: pid=1295 msg=process killed
+2023-09-26T10:47:43: PM2 log: PM2 successfully stopped
+2023-10-31T07:55:35: PM2 log: ===============================================================================
+2023-10-31T07:55:35: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-10-31T07:55:35: PM2 log: Time                 : Tue Oct 31 2023 07:55:35 GMT+0000 (Coordinated Universal Time)
+2023-10-31T07:55:35: PM2 log: PM2 version          : 5.3.0
+2023-10-31T07:55:35: PM2 log: Node.js version      : 18.17.1
+2023-10-31T07:55:35: PM2 log: Current arch         : x64
+2023-10-31T07:55:35: PM2 log: PM2 home             : /home/svc/.pm2
+2023-10-31T07:55:35: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-10-31T07:55:35: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-10-31T07:55:35: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-10-31T07:55:35: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-10-31T07:55:35: PM2 log: Worker Interval      : 30000
+2023-10-31T07:55:35: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-10-31T07:55:35: PM2 log: Concurrent actions   : 2
+2023-10-31T07:55:35: PM2 log: SIGTERM timeout      : 1600
+2023-10-31T07:55:35: PM2 log: ===============================================================================
+2023-10-31T07:55:35: PM2 log: App [index:0] starting in -cluster mode-
+2023-10-31T07:55:35: PM2 log: App [index:1] starting in -cluster mode-
+2023-10-31T07:55:35: PM2 log: App [index:0] online
+2023-10-31T07:55:35: PM2 log: App [index:2] starting in -cluster mode-
+2023-10-31T07:55:35: PM2 log: App [index:1] online
+2023-10-31T07:55:35: PM2 log: App [index:3] starting in -cluster mode-
+2023-10-31T07:55:35: PM2 log: App [index:3] online
+2023-10-31T07:55:35: PM2 log: App [index:4] starting in -cluster mode-
+2023-10-31T07:55:35: PM2 log: App [index:2] online
+2023-10-31T07:55:35: PM2 log: App [index:5] starting in -cluster mode-
+2023-10-31T07:55:35: PM2 log: App [index:4] online
+2023-10-31T07:55:35: PM2 log: App [index:6] starting in -cluster mode-
+2023-10-31T07:55:35: PM2 log: App [index:5] online
+2023-10-31T07:55:35: PM2 log: App [index:7] starting in -cluster mode-
+2023-10-31T07:55:36: PM2 log: App [index:6] online
+2023-10-31T07:55:36: PM2 log: App [index:8] starting in -cluster mode-
+2023-10-31T07:55:36: PM2 log: App [index:7] online
+2023-10-31T07:55:36: PM2 log: App [index:9] starting in -cluster mode-
+2023-10-31T07:55:36: PM2 log: App [index:8] online
+2023-10-31T07:55:36: PM2 log: App [index:9] online
+2023-10-31T08:01:21: PM2 log: Stopping app:index id:0
+2023-10-31T08:01:21: PM2 log: Stopping app:index id:1
+2023-10-31T08:01:21: PM2 log: Stopping app:index id:2
+2023-10-31T08:01:21: PM2 log: Stopping app:index id:3
+2023-10-31T08:01:21: PM2 log: Stopping app:index id:4
+2023-10-31T08:01:21: PM2 log: Stopping app:index id:5
+2023-10-31T08:01:21: PM2 log: Stopping app:index id:6
+2023-10-31T08:01:21: PM2 log: Stopping app:index id:7
+2023-10-31T08:01:21: PM2 log: Stopping app:index id:8
+2023-10-31T08:01:21: PM2 log: Stopping app:index id:9
+2023-10-31T08:01:21: PM2 log: App name:index id:2 disconnected
+2023-10-31T08:01:21: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-10-31T08:01:21: PM2 log: App name:index id:3 disconnected
+2023-10-31T08:01:21: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-10-31T08:01:21: PM2 log: App name:index id:0 disconnected
+2023-10-31T08:01:21: PM2 log: App name:index id:1 disconnected
+2023-10-31T08:01:21: PM2 log: App name:index id:8 disconnected
+2023-10-31T08:01:21: PM2 log: App name:index id:4 disconnected
+2023-10-31T08:01:21: PM2 log: App name:index id:5 disconnected
+2023-10-31T08:01:21: PM2 log: App name:index id:7 disconnected
+2023-10-31T08:01:21: PM2 log: App name:index id:6 disconnected
+2023-10-31T08:01:21: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-10-31T08:01:21: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-10-31T08:01:21: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-10-31T08:01:21: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-10-31T08:01:21: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-10-31T08:01:21: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-10-31T08:01:21: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-10-31T08:01:21: PM2 log: App name:index id:9 disconnected
+2023-10-31T08:01:21: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-10-31T08:01:21: PM2 log: pid=1593 msg=process killed
+2023-10-31T08:01:21: PM2 log: pid=1587 msg=process killed
+2023-10-31T08:01:21: PM2 log: pid=1533 msg=process killed
+2023-10-31T08:01:21: PM2 log: pid=1525 msg=process killed
+2023-10-31T08:01:21: PM2 log: pid=1459 msg=process killed
+2023-10-31T08:01:21: PM2 log: pid=1431 msg=process killed
+2023-10-31T08:01:21: PM2 log: pid=1376 msg=process killed
+2023-10-31T08:01:21: PM2 log: pid=1375 msg=process killed
+2023-10-31T08:01:21: PM2 log: pid=1617 msg=process killed
+2023-10-31T08:01:21: PM2 log: pid=1638 msg=process killed
+2023-10-31T08:01:21: PM2 log: PM2 successfully stopped
+2023-10-31T08:01:22: PM2 log: ===============================================================================
+2023-10-31T08:01:22: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-10-31T08:01:22: PM2 log: Time                 : Tue Oct 31 2023 08:01:22 GMT+0000 (Coordinated Universal Time)
+2023-10-31T08:01:22: PM2 log: PM2 version          : 5.3.0
+2023-10-31T08:01:22: PM2 log: Node.js version      : 18.17.1
+2023-10-31T08:01:22: PM2 log: Current arch         : x64
+2023-10-31T08:01:22: PM2 log: PM2 home             : /home/svc/.pm2
+2023-10-31T08:01:22: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-10-31T08:01:22: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-10-31T08:01:22: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-10-31T08:01:22: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-10-31T08:01:22: PM2 log: Worker Interval      : 30000
+2023-10-31T08:01:22: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-10-31T08:01:22: PM2 log: Concurrent actions   : 2
+2023-10-31T08:01:22: PM2 log: SIGTERM timeout      : 1600
+2023-10-31T08:01:22: PM2 log: ===============================================================================
+2023-10-31T08:01:22: PM2 log: App [index:0] starting in -cluster mode-
+2023-10-31T08:01:22: PM2 log: App [index:1] starting in -cluster mode-
+2023-10-31T08:01:22: PM2 log: App [index:0] online
+2023-10-31T08:01:22: PM2 log: App [index:1] online
+2023-10-31T08:01:22: PM2 log: App [index:2] starting in -cluster mode-
+2023-10-31T08:01:22: PM2 log: App [index:3] starting in -cluster mode-
+2023-10-31T08:01:22: PM2 log: App [index:2] online
+2023-10-31T08:01:22: PM2 log: App [index:4] starting in -cluster mode-
+2023-10-31T08:01:22: PM2 log: App [index:3] online
+2023-10-31T08:01:22: PM2 log: App [index:5] starting in -cluster mode-
+2023-10-31T08:01:22: PM2 log: App [index:5] online
+2023-10-31T08:01:22: PM2 log: App [index:6] starting in -cluster mode-
+2023-10-31T08:01:22: PM2 log: App [index:4] online
+2023-10-31T08:01:22: PM2 log: App [index:7] starting in -cluster mode-
+2023-10-31T08:01:23: PM2 log: App [index:6] online
+2023-10-31T08:01:23: PM2 log: App [index:8] starting in -cluster mode-
+2023-10-31T08:01:23: PM2 log: App [index:7] online
+2023-10-31T08:01:23: PM2 log: App [index:9] starting in -cluster mode-
+2023-10-31T08:01:23: PM2 log: App [index:8] online
+2023-10-31T08:01:23: PM2 log: App [index:9] online
+2023-10-31T08:15:16: PM2 log: Stopping app:index id:0
+2023-10-31T08:15:16: PM2 log: Stopping app:index id:1
+2023-10-31T08:15:16: PM2 log: Stopping app:index id:2
+2023-10-31T08:15:16: PM2 log: Stopping app:index id:3
+2023-10-31T08:15:16: PM2 log: Stopping app:index id:4
+2023-10-31T08:15:17: PM2 log: Stopping app:index id:5
+2023-10-31T08:15:17: PM2 log: Stopping app:index id:6
+2023-10-31T08:15:17: PM2 log: Stopping app:index id:7
+2023-10-31T08:15:17: PM2 log: Stopping app:index id:8
+2023-10-31T08:15:17: PM2 log: Stopping app:index id:9
+2023-10-31T08:15:17: PM2 log: App name:index id:7 disconnected
+2023-10-31T08:15:17: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-10-31T08:15:17: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-10-31T08:15:17: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-10-31T08:15:17: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-10-31T08:15:17: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-10-31T08:15:17: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-10-31T08:15:17: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-10-31T08:15:17: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-10-31T08:15:17: PM2 log: App name:index id:2 disconnected
+2023-10-31T08:15:17: PM2 log: App name:index id:1 disconnected
+2023-10-31T08:15:17: PM2 log: App name:index id:0 disconnected
+2023-10-31T08:15:17: PM2 log: App name:index id:5 disconnected
+2023-10-31T08:15:17: PM2 log: App name:index id:6 disconnected
+2023-10-31T08:15:17: PM2 log: App name:index id:4 disconnected
+2023-10-31T08:15:17: PM2 log: App name:index id:3 disconnected
+2023-10-31T08:15:17: PM2 log: App name:index id:8 disconnected
+2023-10-31T08:15:17: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-10-31T08:15:17: PM2 log: App name:index id:9 disconnected
+2023-10-31T08:15:17: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-10-31T08:15:17: PM2 log: pid=23594 msg=process killed
+2023-10-31T08:15:17: PM2 log: pid=23588 msg=process killed
+2023-10-31T08:15:17: PM2 log: pid=23575 msg=process killed
+2023-10-31T08:15:17: PM2 log: pid=23573 msg=process killed
+2023-10-31T08:15:17: PM2 log: pid=23561 msg=process killed
+2023-10-31T08:15:17: PM2 log: pid=23560 msg=process killed
+2023-10-31T08:15:17: PM2 log: pid=23547 msg=process killed
+2023-10-31T08:15:17: PM2 log: pid=23546 msg=process killed
+2023-10-31T08:15:17: PM2 log: pid=23609 msg=process killed
+2023-10-31T08:15:17: PM2 log: pid=23611 msg=process killed
+2023-10-31T08:15:17: PM2 log: PM2 successfully stopped
+2023-11-02T12:21:12: PM2 log: ===============================================================================
+2023-11-02T12:21:12: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-02T12:21:12: PM2 log: Time                 : Thu Nov 02 2023 12:21:12 GMT+0000 (Coordinated Universal Time)
+2023-11-02T12:21:12: PM2 log: PM2 version          : 5.3.0
+2023-11-02T12:21:12: PM2 log: Node.js version      : 18.17.1
+2023-11-02T12:21:12: PM2 log: Current arch         : x64
+2023-11-02T12:21:12: PM2 log: PM2 home             : /home/svc/.pm2
+2023-11-02T12:21:12: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2023-11-02T12:21:12: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2023-11-02T12:21:12: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2023-11-02T12:21:12: PM2 log: Application log path : /home/svc/.pm2/logs
+2023-11-02T12:21:12: PM2 log: Worker Interval      : 30000
+2023-11-02T12:21:12: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2023-11-02T12:21:12: PM2 log: Concurrent actions   : 2
+2023-11-02T12:21:12: PM2 log: SIGTERM timeout      : 1600
+2023-11-02T12:21:12: PM2 log: ===============================================================================
+2023-11-02T12:21:12: PM2 log: App [index:0] starting in -cluster mode-
+2023-11-02T12:21:12: PM2 log: App [index:1] starting in -cluster mode-
+2023-11-02T12:21:12: PM2 log: App [index:0] online
+2023-11-02T12:21:12: PM2 log: App [index:2] starting in -cluster mode-
+2023-11-02T12:21:12: PM2 log: App [index:1] online
+2023-11-02T12:21:12: PM2 log: App [index:3] starting in -cluster mode-
+2023-11-02T12:21:12: PM2 log: App [index:2] online
+2023-11-02T12:21:12: PM2 log: App [index:4] starting in -cluster mode-
+2023-11-02T12:21:12: PM2 log: App [index:3] online
+2023-11-02T12:21:12: PM2 log: App [index:5] starting in -cluster mode-
+2023-11-02T12:21:12: PM2 log: App [index:4] online
+2023-11-02T12:21:13: PM2 log: App [index:6] starting in -cluster mode-
+2023-11-02T12:21:13: PM2 log: App [index:5] online
+2023-11-02T12:21:13: PM2 log: App [index:7] starting in -cluster mode-
+2023-11-02T12:21:13: PM2 log: App [index:6] online
+2023-11-02T12:21:13: PM2 log: App [index:8] starting in -cluster mode-
+2023-11-02T12:21:13: PM2 log: App [index:7] online
+2023-11-02T12:21:13: PM2 log: App [index:9] starting in -cluster mode-
+2023-11-02T12:21:13: PM2 log: App [index:8] online
+2023-11-02T12:21:13: PM2 log: App [index:9] online
+2023-11-02T12:27:20: PM2 log: Stopping app:index id:0
+2023-11-02T12:27:20: PM2 log: Stopping app:index id:1
+2023-11-02T12:27:20: PM2 log: Stopping app:index id:2
+2023-11-02T12:27:20: PM2 log: Stopping app:index id:3
+2023-11-02T12:27:20: PM2 log: Stopping app:index id:4
+2023-11-02T12:27:20: PM2 log: Stopping app:index id:5
+2023-11-02T12:27:20: PM2 log: Stopping app:index id:6
+2023-11-02T12:27:20: PM2 log: Stopping app:index id:7
+2023-11-02T12:27:20: PM2 log: Stopping app:index id:8
+2023-11-02T12:27:20: PM2 log: Stopping app:index id:9
+2023-11-02T12:27:20: PM2 log: App name:index id:5 disconnected
+2023-11-02T12:27:20: PM2 log: App name:index id:6 disconnected
+2023-11-02T12:27:20: PM2 log: App name:index id:7 disconnected
+2023-11-02T12:27:20: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2023-11-02T12:27:20: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2023-11-02T12:27:20: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2023-11-02T12:27:20: PM2 log: App name:index id:1 disconnected
+2023-11-02T12:27:20: PM2 log: App name:index id:9 disconnected
+2023-11-02T12:27:20: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2023-11-02T12:27:20: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2023-11-02T12:27:20: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2023-11-02T12:27:20: PM2 log: App name:index id:4 disconnected
+2023-11-02T12:27:20: PM2 log: App name:index id:3 disconnected
+2023-11-02T12:27:20: PM2 log: App name:index id:2 disconnected
+2023-11-02T12:27:20: PM2 log: App name:index id:0 disconnected
+2023-11-02T12:27:20: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-11-02T12:27:20: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2023-11-02T12:27:20: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2023-11-02T12:27:20: PM2 log: App name:index id:8 disconnected
+2023-11-02T12:27:20: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2023-11-02T12:27:20: PM2 log: pid=1532 msg=process killed
+2023-11-02T12:27:20: PM2 log: pid=1517 msg=process killed
+2023-11-02T12:27:20: PM2 log: pid=1478 msg=process killed
+2023-11-02T12:27:20: PM2 log: pid=1461 msg=process killed
+2023-11-02T12:27:20: PM2 log: pid=1438 msg=process killed
+2023-11-02T12:27:20: PM2 log: pid=1399 msg=process killed
+2023-11-02T12:27:20: PM2 log: pid=1332 msg=process killed
+2023-11-02T12:27:20: PM2 log: pid=1320 msg=process killed
+2023-11-02T12:27:20: PM2 log: pid=1572 msg=process killed
+2023-11-02T12:27:20: PM2 log: pid=1564 msg=process killed
+2023-11-02T12:27:20: PM2 log: PM2 successfully stopped
+2024-03-27T13:00:25: PM2 log: ===============================================================================
+2024-03-27T13:00:25: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-03-27T13:00:25: PM2 log: Time                 : Wed Mar 27 2024 13:00:25 GMT+0000 (Coordinated Universal Time)
+2024-03-27T13:00:25: PM2 log: PM2 version          : 5.3.0
+2024-03-27T13:00:25: PM2 log: Node.js version      : 18.17.1
+2024-03-27T13:00:25: PM2 log: Current arch         : x64
+2024-03-27T13:00:25: PM2 log: PM2 home             : /home/svc/.pm2
+2024-03-27T13:00:25: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2024-03-27T13:00:25: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2024-03-27T13:00:25: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2024-03-27T13:00:25: PM2 log: Application log path : /home/svc/.pm2/logs
+2024-03-27T13:00:25: PM2 log: Worker Interval      : 30000
+2024-03-27T13:00:25: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2024-03-27T13:00:25: PM2 log: Concurrent actions   : 2
+2024-03-27T13:00:25: PM2 log: SIGTERM timeout      : 1600
+2024-03-27T13:00:25: PM2 log: ===============================================================================
+2024-03-27T13:00:25: PM2 log: App [index:0] starting in -cluster mode-
+2024-03-27T13:00:25: PM2 log: App [index:1] starting in -cluster mode-
+2024-03-27T13:00:25: PM2 log: App [index:1] online
+2024-03-27T13:00:25: PM2 log: App [index:2] starting in -cluster mode-
+2024-03-27T13:00:25: PM2 log: App [index:0] online
+2024-03-27T13:00:25: PM2 log: App [index:3] starting in -cluster mode-
+2024-03-27T13:00:26: PM2 log: App [index:2] online
+2024-03-27T13:00:26: PM2 log: App [index:4] starting in -cluster mode-
+2024-03-27T13:00:26: PM2 log: App [index:3] online
+2024-03-27T13:00:26: PM2 log: App [index:5] starting in -cluster mode-
+2024-03-27T13:00:26: PM2 log: App [index:4] online
+2024-03-27T13:00:26: PM2 log: App [index:6] starting in -cluster mode-
+2024-03-27T13:00:26: PM2 log: App [index:5] online
+2024-03-27T13:00:26: PM2 log: App [index:7] starting in -cluster mode-
+2024-03-27T13:00:26: PM2 log: App [index:6] online
+2024-03-27T13:00:26: PM2 log: App [index:8] starting in -cluster mode-
+2024-03-27T13:00:26: PM2 log: App [index:7] online
+2024-03-27T13:00:26: PM2 log: App [index:9] starting in -cluster mode-
+2024-03-27T13:00:26: PM2 log: App [index:8] online
+2024-03-27T13:00:26: PM2 log: App [index:9] online
+2024-03-27T13:03:14: PM2 log: Stopping app:index id:0
+2024-03-27T13:03:14: PM2 log: Stopping app:index id:1
+2024-03-27T13:03:14: PM2 log: Stopping app:index id:2
+2024-03-27T13:03:14: PM2 log: Stopping app:index id:3
+2024-03-27T13:03:14: PM2 log: Stopping app:index id:4
+2024-03-27T13:03:14: PM2 log: Stopping app:index id:5
+2024-03-27T13:03:14: PM2 log: Stopping app:index id:6
+2024-03-27T13:03:14: PM2 log: Stopping app:index id:7
+2024-03-27T13:03:14: PM2 log: Stopping app:index id:8
+2024-03-27T13:03:14: PM2 log: Stopping app:index id:9
+2024-03-27T13:03:14: PM2 log: App name:index id:5 disconnected
+2024-03-27T13:03:14: PM2 log: App [index:5] exited with code [0] via signal [SIGINT]
+2024-03-27T13:03:14: PM2 log: App name:index id:6 disconnected
+2024-03-27T13:03:14: PM2 log: App [index:6] exited with code [0] via signal [SIGINT]
+2024-03-27T13:03:14: PM2 log: App name:index id:2 disconnected
+2024-03-27T13:03:14: PM2 log: App [index:2] exited with code [0] via signal [SIGINT]
+2024-03-27T13:03:14: PM2 log: App name:index id:4 disconnected
+2024-03-27T13:03:14: PM2 log: App name:index id:1 disconnected
+2024-03-27T13:03:14: PM2 log: App name:index id:0 disconnected
+2024-03-27T13:03:14: PM2 log: App name:index id:3 disconnected
+2024-03-27T13:03:14: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2024-03-27T13:03:14: PM2 log: App [index:1] exited with code [0] via signal [SIGINT]
+2024-03-27T13:03:14: PM2 log: App [index:3] exited with code [0] via signal [SIGINT]
+2024-03-27T13:03:14: PM2 log: App [index:4] exited with code [0] via signal [SIGINT]
+2024-03-27T13:03:14: PM2 log: App name:index id:7 disconnected
+2024-03-27T13:03:14: PM2 log: App [index:7] exited with code [0] via signal [SIGINT]
+2024-03-27T13:03:14: PM2 log: App name:index id:8 disconnected
+2024-03-27T13:03:14: PM2 log: App [index:8] exited with code [0] via signal [SIGINT]
+2024-03-27T13:03:14: PM2 log: App name:index id:9 disconnected
+2024-03-27T13:03:14: PM2 log: App [index:9] exited with code [0] via signal [SIGINT]
+2024-03-27T13:03:14: PM2 log: pid=1494 msg=process killed
+2024-03-27T13:03:14: PM2 log: pid=1469 msg=process killed
+2024-03-27T13:03:14: PM2 log: pid=1433 msg=process killed
+2024-03-27T13:03:14: PM2 log: pid=1429 msg=process killed
+2024-03-27T13:03:14: PM2 log: pid=1378 msg=process killed
+2024-03-27T13:03:14: PM2 log: pid=1371 msg=process killed
+2024-03-27T13:03:14: PM2 log: pid=1522 msg=process killed
+2024-03-27T13:03:14: PM2 log: pid=1553 msg=process killed
+2024-03-27T13:03:14: PM2 log: pid=1531 msg=process killed
+2024-03-27T13:03:14: PM2 log: pid=1560 msg=process killed
+2024-03-27T13:03:15: PM2 log: PM2 successfully stopped
+2024-12-10T12:34:45: PM2 log: ===============================================================================
+2024-12-10T12:34:45: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-12-10T12:34:45: PM2 log: Time                 : Tue Dec 10 2024 12:34:45 GMT+0000 (Coordinated Universal Time)
+2024-12-10T12:34:45: PM2 log: PM2 version          : 5.3.0
+2024-12-10T12:34:45: PM2 log: Node.js version      : 18.17.1
+2024-12-10T12:34:45: PM2 log: Current arch         : x64
+2024-12-10T12:34:45: PM2 log: PM2 home             : /home/svc/.pm2
+2024-12-10T12:34:45: PM2 log: PM2 PID file         : /home/svc/.pm2/pm2.pid
+2024-12-10T12:34:45: PM2 log: RPC socket file      : /home/svc/.pm2/rpc.sock
+2024-12-10T12:34:45: PM2 log: BUS socket file      : /home/svc/.pm2/pub.sock
+2024-12-10T12:34:45: PM2 log: Application log path : /home/svc/.pm2/logs
+2024-12-10T12:34:45: PM2 log: Worker Interval      : 30000
+2024-12-10T12:34:45: PM2 log: Process dump file    : /home/svc/.pm2/dump.pm2
+2024-12-10T12:34:45: PM2 log: Concurrent actions   : 2
+2024-12-10T12:34:45: PM2 log: SIGTERM timeout      : 1600
+2024-12-10T12:34:45: PM2 log: ===============================================================================
+2024-12-10T12:34:45: PM2 log: App [index:0] starting in -cluster mode-
+2024-12-10T12:34:45: PM2 log: App [index:1] starting in -cluster mode-
+2024-12-10T12:34:45: PM2 log: App [index:0] online
+2024-12-10T12:34:45: PM2 log: App [index:2] starting in -cluster mode-
+2024-12-10T12:34:45: PM2 log: App [index:1] online
+2024-12-10T12:34:45: PM2 log: App [index:3] starting in -cluster mode-
+2024-12-10T12:34:45: PM2 log: App [index:2] online
+2024-12-10T12:34:45: PM2 log: App [index:3] online
+2024-12-10T12:34:45: PM2 log: App [index:4] starting in -cluster mode-
+2024-12-10T12:34:45: PM2 log: App [index:5] starting in -cluster mode-
+2024-12-10T12:34:45: PM2 log: App [index:5] online
+2024-12-10T12:34:45: PM2 log: App [index:6] starting in -cluster mode-
+2024-12-10T12:34:45: PM2 log: App [index:4] online
+2024-12-10T12:34:45: PM2 log: App [index:7] starting in -cluster mode-
+2024-12-10T12:34:45: PM2 log: App [index:6] online
+2024-12-10T12:34:45: PM2 log: App [index:8] starting in -cluster mode-
+2024-12-10T12:34:46: PM2 log: App [index:7] online
+2024-12-10T12:34:46: PM2 log: App [index:9] starting in -cluster mode-
+2024-12-10T12:34:46: PM2 log: App [index:8] online
+2024-12-10T12:34:46: PM2 log: App [index:9] online

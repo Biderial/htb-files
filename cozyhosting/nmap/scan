@@ -1,0 +1,1 @@
+# Nmap 7.95 scan initiated Sat Nov  9 16:00:45 2024 as: nmap -vv -T1 -p- -sS -sU -sC -sV -O -A --traceroute -oN nmap/scan 10.10.11.230

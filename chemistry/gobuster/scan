@@ -1,0 +1,10 @@
+[32mFound: [0m[32m[Status=200] [Length=926] [Word=login] http://10.10.11.38:5000/login[0m[32m
+[0m
+[32mFound: [0m[32m[Status=200] [Length=931] [Word=register] http://10.10.11.38:5000/register[0m[32m
+[0m
+[32mFound: [0m[32m[Status=405] [Length=153] [Word=upload] http://10.10.11.38:5000/upload[0m[32m
+[0m
+[32mFound: [0m[32m[Status=302] [Length=229] [Word=logout] http://10.10.11.38:5000/logout[0m[32m
+[0m
+[32mFound: [0m[32m[Status=302] [Length=235] [Word=dashboard] http://10.10.11.38:5000/dashboard[0m[32m
+[0m
